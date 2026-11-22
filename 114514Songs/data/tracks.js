@@ -20,7 +20,8 @@ window.PLAYLIST = {
    "dur": 117,
    "kb": 4669,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/1-oZhou_i_Zu_Zhou.mp3"
   },
   {
    "n": 2,
@@ -33,7 +34,8 @@ window.PLAYLIST = {
    "dur": 151,
    "kb": 6031,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/2-isophote.mp3"
   },
   {
    "n": 3,
@@ -46,7 +48,8 @@ window.PLAYLIST = {
    "dur": 157,
    "kb": 21902,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/3-Yu_Lu_Shuang_Xue.flac"
   },
   {
    "n": 4,
@@ -59,7 +62,8 @@ window.PLAYLIST = {
    "dur": 168,
    "kb": 23919,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/4-Xterfusion.flac"
   },
   {
    "n": 5,
@@ -72,7 +76,8 @@ window.PLAYLIST = {
    "dur": 152,
    "kb": 6008,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/5-Shen_Wei.mp3"
   },
   {
    "n": 6,
@@ -85,7 +90,8 @@ window.PLAYLIST = {
    "dur": 192,
    "kb": 7570,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/6-BULK_UP.mp3"
   },
   {
    "n": 7,
@@ -98,7 +104,8 @@ window.PLAYLIST = {
    "dur": 126,
    "kb": 17603,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/7-Chao_Zui_Zhong_Gui_Chu_Mei_hurando_ru_S.flac"
   },
   {
    "n": 8,
@@ -111,7 +118,8 @@ window.PLAYLIST = {
    "dur": 240,
    "kb": 9514,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/8-Ref_rain_for_7th_Heaven.mp3"
   },
   {
    "n": 9,
@@ -124,7 +132,8 @@ window.PLAYLIST = {
    "dur": 148,
    "kb": 5917,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/9-World_s_end_loneliness.mp3"
   },
   {
    "n": 10,
@@ -137,7 +146,8 @@ window.PLAYLIST = {
    "dur": 166,
    "kb": 6623,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/10-World_s_end_BLACKBOX.mp3"
   },
   {
    "n": 11,
@@ -150,7 +160,8 @@ window.PLAYLIST = {
    "dur": 288,
    "kb": 11342,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/11-Believe_the_Rainbow_LONG_Version.mp3"
   },
   {
    "n": 12,
@@ -163,7 +174,8 @@ window.PLAYLIST = {
    "dur": 189,
    "kb": 7417,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/12-San_Ri_Yue_sutetsupu_2023.mp3"
   },
   {
    "n": 13,
@@ -176,7 +188,8 @@ window.PLAYLIST = {
    "dur": 208,
    "kb": 8202,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/13-dabururariatsuto_Zhuan_Quan_Ge.mp3"
   },
   {
    "n": 14,
@@ -189,7 +202,8 @@ window.PLAYLIST = {
    "dur": 214,
    "kb": 8428,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/14-kuraberaretsuZi_Bei_Bi_Jiao_De_Hai_Zi.mp3"
   },
   {
    "n": 15,
@@ -202,7 +216,8 @@ window.PLAYLIST = {
    "dur": 255,
    "kb": 10024,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/15-San_Yao_Jing_SAY_YA_Sanyousei_SAY_YA.mp3"
   },
   {
    "n": 16,
@@ -215,7 +230,8 @@ window.PLAYLIST = {
    "dur": 276,
    "kb": 10926,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/16-Qian_Nian_Huan_Xiang_Xiang_History_of_the_Moon.mp3"
   },
   {
    "n": 17,
@@ -228,7 +244,8 @@ window.PLAYLIST = {
    "dur": 202,
    "kb": 8027,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/17-hurawaringunaito_akiyamauni_Hua_Kai_Ye.mp3"
   },
   {
    "n": 18,
@@ -241,7 +258,8 @@ window.PLAYLIST = {
    "dur": 153,
    "kb": 2476,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/18-Fraq.mp3"
   },
   {
    "n": 19,
@@ -254,7 +272,8 @@ window.PLAYLIST = {
    "dur": 209,
    "kb": 24646,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/19-nonburesu_oburi_ziyu_Wu_Hu_Xi_Yi_Wu_Non_breath_oblige.flac"
   },
   {
    "n": 20,
@@ -267,7 +286,8 @@ window.PLAYLIST = {
    "dur": 248,
    "kb": 9775,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/20-Yue_Shu_harumakigohanVocal_ver.mp3"
   },
   {
    "n": 21,
@@ -280,7 +300,8 @@ window.PLAYLIST = {
    "dur": 239,
    "kb": 9441,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/21-Zai_Hui_harumakigohanVocal_ver.mp3"
   },
   {
    "n": 22,
@@ -293,7 +314,8 @@ window.PLAYLIST = {
    "dur": 209,
    "kb": 8286,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/22-matsuyoinaitobagu.mp3"
   },
   {
    "n": 23,
@@ -306,7 +328,8 @@ window.PLAYLIST = {
    "dur": 146,
    "kb": 5739,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/23-baberu_Ba_Bie_Ta.mp3"
   },
   {
    "n": 24,
@@ -319,7 +342,8 @@ window.PLAYLIST = {
    "dur": 219,
    "kb": 8615,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/24-erinziumu.mp3"
   },
   {
    "n": 25,
@@ -332,7 +356,8 @@ window.PLAYLIST = {
    "dur": 221,
    "kb": 8736,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/25-Zero_Talking.mp3"
   },
   {
    "n": 26,
@@ -345,7 +370,8 @@ window.PLAYLIST = {
    "dur": 178,
    "kb": 7018,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/26-snooze_feat_SHIKI.mp3"
   },
   {
    "n": 27,
@@ -358,7 +384,8 @@ window.PLAYLIST = {
    "dur": 148,
    "kb": 5875,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/27-Lucky_Me_Jian_Dao_Ni_Zhen_Kai_Xin_Zhu_Qu_Ban.mp3"
   },
   {
    "n": 28,
@@ -371,7 +398,8 @@ window.PLAYLIST = {
    "dur": 203,
    "kb": 7995,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/28-momoironoJian.mp3"
   },
   {
    "n": 29,
@@ -384,7 +412,8 @@ window.PLAYLIST = {
    "dur": 218,
    "kb": 8723,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/29-Ai_Bao_dansuho_ru.mp3"
   },
   {
    "n": 30,
@@ -397,7 +426,8 @@ window.PLAYLIST = {
    "dur": 207,
    "kb": 8180,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/30-arukariretsutousei_Jian_Xing_Lie_Deng_Sheng.mp3"
   },
   {
    "n": 31,
@@ -410,7 +440,8 @@ window.PLAYLIST = {
    "dur": 187,
    "kb": 25574,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/31-ruma_Ruma.flac"
   },
   {
    "n": 32,
@@ -423,7 +454,8 @@ window.PLAYLIST = {
    "dur": 235,
    "kb": 9290,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/32-hatsupi_shinsesaiza_Kuai_Le_He_Cheng_Qi.mp3"
   },
   {
    "n": 33,
@@ -436,7 +468,8 @@ window.PLAYLIST = {
    "dur": 177,
    "kb": 23746,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/33-asunoyozoraShao_Jie_Ban_Ming_Ri_De_Ye_Kong_Shao_Jie_Ban.flac"
   },
   {
    "n": 34,
@@ -449,7 +482,8 @@ window.PLAYLIST = {
    "dur": 333,
    "kb": 13115,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/34-Lu_Xin_Rong_Jie_melt_down.mp3"
   },
   {
    "n": 35,
@@ -462,7 +496,8 @@ window.PLAYLIST = {
    "dur": 108,
    "kb": 13562,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/35-Bleeding.flac"
   },
   {
    "n": 36,
@@ -475,7 +510,8 @@ window.PLAYLIST = {
    "dur": 192,
    "kb": 7606,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/36-naito_obu_naitsu.mp3"
   },
   {
    "n": 37,
@@ -488,20 +524,22 @@ window.PLAYLIST = {
    "dur": 183,
    "kb": 24651,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/37-DROPS_feat_Such.flac"
   },
   {
    "n": 38,
    "title": "Sweets Time",
    "artist": "3L (スリーエル)",
    "album": "ゆきうさぎ",
-       "cat": "东方Project",
+   "cat": "东方Project",
    "file": "38-Sweets Time",
    "ext": ".mp3",
    "dur": 280,
    "kb": 11020,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/38-Sweets_Time.mp3"
   },
   {
    "n": 39,
@@ -514,7 +552,8 @@ window.PLAYLIST = {
    "dur": 223,
    "kb": 8786,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/39-hitsuchikotsuku_Xi_Qu_Ke_Ke.mp3"
   },
   {
    "n": 40,
@@ -527,7 +566,8 @@ window.PLAYLIST = {
    "dur": 155,
    "kb": 6163,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/40-Qun_Qing_shigunaru.mp3"
   },
   {
    "n": 41,
@@ -540,7 +580,8 @@ window.PLAYLIST = {
    "dur": 247,
    "kb": 9755,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/41-Shi_Shu_kitoko_hi_Zuo_Shi_He_Yin_Ka_Pei.mp3"
   },
   {
    "n": 42,
@@ -553,7 +594,8 @@ window.PLAYLIST = {
    "dur": 153,
    "kb": 2476,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/42-Straight_into_the_lights.mp3"
   },
   {
    "n": 43,
@@ -566,7 +608,8 @@ window.PLAYLIST = {
    "dur": 173,
    "kb": 6841,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/43-Bing_miGou_suteroido.mp3"
   },
   {
    "n": 44,
@@ -579,7 +622,8 @@ window.PLAYLIST = {
    "dur": 165,
    "kb": 6525,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/44-bibideba.mp3"
   },
   {
    "n": 45,
@@ -592,7 +636,8 @@ window.PLAYLIST = {
    "dur": 138,
    "kb": 16885,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/45-dandanZao_kunaru_Zhu_Jian_Bian_Kuai.flac"
   },
   {
    "n": 46,
@@ -605,7 +650,8 @@ window.PLAYLIST = {
    "dur": 147,
    "kb": 5845,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/46-kiyubizumu_Li_Ti_Zhu_Yi.mp3"
   },
   {
    "n": 47,
@@ -618,7 +664,8 @@ window.PLAYLIST = {
    "dur": 139,
    "kb": 18721,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/47-o_ba_raido.flac"
   },
   {
    "n": 48,
@@ -631,7 +678,8 @@ window.PLAYLIST = {
    "dur": 128,
    "kb": 5069,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/48-Daisuke.mp3"
   },
   {
    "n": 49,
@@ -644,7 +692,8 @@ window.PLAYLIST = {
    "dur": 153,
    "kb": 6088,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/49-LEMON_MELON_COOKIE.mp3"
   },
   {
    "n": 50,
@@ -657,7 +706,8 @@ window.PLAYLIST = {
    "dur": 210,
    "kb": 8270,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/50-Lockdown_feat_NEONA.mp3"
   },
   {
    "n": 51,
@@ -670,7 +720,8 @@ window.PLAYLIST = {
    "dur": 239,
    "kb": 3853,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/51-Nu_noZi_ninaritai.mp3"
   },
   {
    "n": 52,
@@ -683,7 +734,8 @@ window.PLAYLIST = {
    "dur": 151,
    "kb": 16627,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/52-raia_meiden_feat_riihu_Shuo_Huang_De_Shao_Nu.flac"
   },
   {
    "n": 53,
@@ -696,7 +748,8 @@ window.PLAYLIST = {
    "dur": 206,
    "kb": 8164,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/53-anda_kitsuzu_Under_Kids.mp3"
   },
   {
    "n": 54,
@@ -709,7 +762,8 @@ window.PLAYLIST = {
    "dur": 367,
    "kb": 14431,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/54-Niao_noShi_Niao_Zhi_Shi.mp3"
   },
   {
    "n": 55,
@@ -722,7 +776,8 @@ window.PLAYLIST = {
    "dur": 250,
    "kb": 9878,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/55-Avid.mp3"
   },
   {
    "n": 56,
@@ -735,7 +790,8 @@ window.PLAYLIST = {
    "dur": 265,
    "kb": 10394,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/56-Bai_yuki_Bai_Xue.mp3"
   },
   {
    "n": 57,
@@ -748,7 +804,8 @@ window.PLAYLIST = {
    "dur": 130,
    "kb": 5097,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/57-bakamitaini.mp3"
   },
   {
    "n": 58,
@@ -761,7 +818,8 @@ window.PLAYLIST = {
    "dur": 189,
    "kb": 7432,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/58-okusuriYin_ndeQin_you_feat_Chu_Yin_miku.mp3"
   },
   {
    "n": 59,
@@ -774,7 +832,8 @@ window.PLAYLIST = {
    "dur": 214,
    "kb": 25399,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/59-ntsuatsuatsu.flac"
   },
   {
    "n": 60,
@@ -787,7 +846,8 @@ window.PLAYLIST = {
    "dur": 225,
    "kb": 8889,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/60-Xing_seninareruYin_shikomandogaarurashii.mp3"
   },
   {
    "n": 61,
@@ -800,7 +860,8 @@ window.PLAYLIST = {
    "dur": 205,
    "kb": 8161,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/61-You_Ling_Dong_Jing.mp3"
   },
   {
    "n": 62,
@@ -813,7 +874,8 @@ window.PLAYLIST = {
    "dur": 230,
    "kb": 9005,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/62-darekanoXin_Zang_ninaretanara_Ru_Guo_Neng_Cheng_Wei_Shui_De.mp3"
   },
   {
    "n": 63,
@@ -826,7 +888,8 @@ window.PLAYLIST = {
    "dur": 212,
    "kb": 8375,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/63-zamuza_Sa_Mu_Sha.mp3"
   },
   {
    "n": 64,
@@ -839,7 +902,8 @@ window.PLAYLIST = {
    "dur": 144,
    "kb": 5741,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/64-solips.mp3"
   },
   {
    "n": 65,
@@ -852,7 +916,8 @@ window.PLAYLIST = {
    "dur": 159,
    "kb": 6276,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/65-Apollo.mp3"
   },
   {
    "n": 66,
@@ -865,7 +930,8 @@ window.PLAYLIST = {
    "dur": 187,
    "kb": 7413,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/66-raputa.mp3"
   },
   {
    "n": 67,
@@ -878,7 +944,8 @@ window.PLAYLIST = {
    "dur": 226,
    "kb": 8889,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/67-the_EmpErroR.mp3"
   },
   {
    "n": 68,
@@ -891,7 +958,8 @@ window.PLAYLIST = {
    "dur": 152,
    "kb": 17886,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/68-Xing_setoha_feat_Ke_Bu.flac"
   },
   {
    "n": 69,
@@ -904,7 +972,8 @@ window.PLAYLIST = {
    "dur": 148,
    "kb": 17829,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/69-nemurenaiyoru_feat_Ke_Bu.flac"
   },
   {
    "n": 70,
@@ -917,7 +986,8 @@ window.PLAYLIST = {
    "dur": 155,
    "kb": 6110,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/70-sekaishine_Shi_Jie_Yong_Bie.mp3"
   },
   {
    "n": 71,
@@ -930,7 +1000,8 @@ window.PLAYLIST = {
    "dur": 191,
    "kb": 7584,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/71-Ji_Xing_Lian_Ai_Zhong_Du_feat_Zhong_Yin_teto.mp3"
   },
   {
    "n": 72,
@@ -943,7 +1014,8 @@ window.PLAYLIST = {
    "dur": 191,
    "kb": 23538,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/72-Execution_Clap_Chu_Xing_Pai_Shou.flac"
   },
   {
    "n": 73,
@@ -956,7 +1028,8 @@ window.PLAYLIST = {
    "dur": 134,
    "kb": 5268,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/73-antaniYan_tsutenno.mp3"
   },
   {
    "n": 74,
@@ -969,7 +1042,8 @@ window.PLAYLIST = {
    "dur": 161,
    "kb": 6403,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/74-kiraisukitsupu.mp3"
   },
   {
    "n": 75,
@@ -982,7 +1056,8 @@ window.PLAYLIST = {
    "dur": 206,
    "kb": 8127,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/75-da_rindansu_Darling_Dance.mp3"
   },
   {
    "n": 76,
@@ -995,7 +1070,8 @@ window.PLAYLIST = {
    "dur": 136,
    "kb": 12145,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/76-Sheng_kiru_feat_Ke_Bu.flac"
   },
   {
    "n": 77,
@@ -1008,7 +1084,8 @@ window.PLAYLIST = {
    "dur": 210,
    "kb": 8270,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/77-go_sutoru_ru_You_Ling_Fa_Ze.mp3"
   },
   {
    "n": 78,
@@ -1021,7 +1098,8 @@ window.PLAYLIST = {
    "dur": 205,
    "kb": 8172,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/78-hibana_Huo_Hua.mp3"
   },
   {
    "n": 79,
@@ -1034,7 +1112,8 @@ window.PLAYLIST = {
    "dur": 172,
    "kb": 24321,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/79-bagu_Gu_Zhang.flac"
   },
   {
    "n": 80,
@@ -1047,7 +1126,8 @@ window.PLAYLIST = {
    "dur": 160,
    "kb": 17325,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/80-Angels_of_the_Apocalypse.flac"
   },
   {
    "n": 81,
@@ -1060,7 +1140,8 @@ window.PLAYLIST = {
    "dur": 277,
    "kb": 10873,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/81-Still_Shining_feat_Zhong_Yin_teto.mp3"
   },
   {
    "n": 82,
@@ -1073,7 +1154,8 @@ window.PLAYLIST = {
    "dur": 124,
    "kb": 4896,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/82-inhuerunoshitei_feat_haachi.mp3"
   },
   {
    "n": 83,
@@ -1086,7 +1168,8 @@ window.PLAYLIST = {
    "dur": 201,
    "kb": 21205,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/83-Hua_Zhi_Lou_Bing.flac"
   },
   {
    "n": 84,
@@ -1099,7 +1182,8 @@ window.PLAYLIST = {
    "dur": 240,
    "kb": 9429,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/84-Pu_ha_Wo.mp3"
   },
   {
    "n": 85,
@@ -1112,7 +1196,8 @@ window.PLAYLIST = {
    "dur": 188,
    "kb": 23417,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/85-Huang_Jin_Shu.flac"
   },
   {
    "n": 86,
@@ -1125,7 +1210,8 @@ window.PLAYLIST = {
    "dur": 216,
    "kb": 8531,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/86-Liu_Zhao_Nian_toYi_Ye_Wu_Yu_Liu_Zhao_Nian_Ling_Yi_Ye_Wu_Yu.mp3"
   },
   {
    "n": 87,
@@ -1138,7 +1224,8 @@ window.PLAYLIST = {
    "dur": 155,
    "kb": 6158,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/87-p_h.mp3"
   },
   {
    "n": 88,
@@ -1151,7 +1238,8 @@ window.PLAYLIST = {
    "dur": 232,
    "kb": 9165,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/88-puropo_zu_Qiu_Hun.mp3"
   },
   {
    "n": 89,
@@ -1164,7 +1252,8 @@ window.PLAYLIST = {
    "dur": 180,
    "kb": 21762,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/89-Ge_Ren.flac"
   },
   {
    "n": 90,
@@ -1177,7 +1266,8 @@ window.PLAYLIST = {
    "dur": 147,
    "kb": 5790,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/90-supuritsutodansu.mp3"
   },
   {
    "n": 91,
@@ -1190,7 +1280,8 @@ window.PLAYLIST = {
    "dur": 172,
    "kb": 6799,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/91-Gao_Bai.mp3"
   },
   {
    "n": 92,
@@ -1203,7 +1294,8 @@ window.PLAYLIST = {
    "dur": 214,
    "kb": 8469,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/92-Si_Bie.mp3"
   },
   {
    "n": 93,
@@ -1216,7 +1308,8 @@ window.PLAYLIST = {
    "dur": 347,
    "kb": 13595,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/93-nandemonaiya_Mei_Shi_Yao_Da_Bu_Liao.mp3"
   },
   {
    "n": 94,
@@ -1229,7 +1322,8 @@ window.PLAYLIST = {
    "dur": 184,
    "kb": 7211,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/94-Gou_Zhi_Qi_Shi.mp3"
   },
   {
    "n": 95,
@@ -1242,7 +1336,8 @@ window.PLAYLIST = {
    "dur": 211,
    "kb": 8259,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/95-neeneenee_Ne_Ne_Ne.mp3"
   },
   {
    "n": 96,
@@ -1255,7 +1350,8 @@ window.PLAYLIST = {
    "dur": 250,
    "kb": 9895,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/96-Quan_Yu_Tian_Xia.mp3"
   },
   {
    "n": 97,
@@ -1268,7 +1364,8 @@ window.PLAYLIST = {
    "dur": 240,
    "kb": 9476,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/97-Mo_Xiang_Shuang_Tian.mp3"
   },
   {
    "n": 98,
@@ -1281,7 +1378,8 @@ window.PLAYLIST = {
    "dur": 162,
    "kb": 2539,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/98-rabitsutoho_ru.mp3"
   },
   {
    "n": 99,
@@ -1294,7 +1392,8 @@ window.PLAYLIST = {
    "dur": 246,
    "kb": 25077,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/99-tsugihagisutatsuka_to_Pin_Cou_Duan_Yin.flac"
   },
   {
    "n": 100,
@@ -1307,7 +1406,8 @@ window.PLAYLIST = {
    "dur": 211,
    "kb": 8323,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/100-wa_ruzuendo_dansuho_ru_Mo_Shi_Wu_Ting.mp3"
   },
   {
    "n": 101,
@@ -1320,7 +1420,8 @@ window.PLAYLIST = {
    "dur": 226,
    "kb": 8894,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/101-anhatsupi_rihurein_Unhappy_Refrain.mp3"
   },
   {
    "n": 102,
@@ -1333,7 +1434,8 @@ window.PLAYLIST = {
    "dur": 139,
    "kb": 18750,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/102-inpaahuekushion_howaitogaaru_feat_Yue_Nai.flac"
   },
   {
    "n": 103,
@@ -1346,7 +1448,8 @@ window.PLAYLIST = {
    "dur": 220,
    "kb": 8685,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/103-Miku.mp3"
   },
   {
    "n": 104,
@@ -1359,7 +1462,8 @@ window.PLAYLIST = {
    "dur": 164,
    "kb": 21788,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/104-ma_shiyaru_makishimaiza_Marshall_Maximizer.flac"
   },
   {
    "n": 105,
@@ -1372,7 +1476,8 @@ window.PLAYLIST = {
    "dur": 220,
    "kb": 8688,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/105-Lian_Ai_Cai_Pan.mp3"
   },
   {
    "n": 106,
@@ -1385,7 +1490,8 @@ window.PLAYLIST = {
    "dur": 223,
    "kb": 8853,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/106-Yi_Nu_Jie_Pou.mp3"
   },
   {
    "n": 107,
@@ -1398,7 +1504,8 @@ window.PLAYLIST = {
    "dur": 154,
    "kb": 6111,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/107-Hun_Dun_bugi_Hun_Dun_Bu_Ji.mp3"
   },
   {
    "n": 108,
@@ -1411,7 +1518,8 @@ window.PLAYLIST = {
    "dur": 237,
    "kb": 9318,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/108-Qiu_Ying_feat_Zhong_Yin_teto.mp3"
   },
   {
    "n": 109,
@@ -1424,7 +1532,8 @@ window.PLAYLIST = {
    "dur": 206,
    "kb": 8126,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/109-Liu_Xing_Zan_Ge.mp3"
   },
   {
    "n": 110,
@@ -1437,7 +1546,8 @@ window.PLAYLIST = {
    "dur": 176,
    "kb": 19210,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/110-taimuizumain_Shi_Jian_Shu_Yu_Wo.flac"
   },
   {
    "n": 111,
@@ -1450,7 +1560,8 @@ window.PLAYLIST = {
    "dur": 123,
    "kb": 4910,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/111-bureinrotsuto_Brain_Rot.mp3"
   },
   {
    "n": 112,
@@ -1463,7 +1574,8 @@ window.PLAYLIST = {
    "dur": 257,
    "kb": 4090,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/112-meruto_Melt.mp3"
   },
   {
    "n": 113,
@@ -1476,7 +1588,8 @@ window.PLAYLIST = {
    "dur": 171,
    "kb": 2670,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/113-Xi_gite.mp3"
   },
   {
    "n": 114,
@@ -1489,7 +1602,8 @@ window.PLAYLIST = {
    "dur": 186,
    "kb": 22410,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/114-shisuta_niChan_Hui_wo_feat_Zhong_Yin_teto.flac"
   },
   {
    "n": 115,
@@ -1502,7 +1616,8 @@ window.PLAYLIST = {
    "dur": 150,
    "kb": 5892,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/115-Chronomia.mp3"
   },
   {
    "n": 116,
@@ -1515,7 +1630,8 @@ window.PLAYLIST = {
    "dur": 190,
    "kb": 23943,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/116-huonii_Wei_Wu.flac"
   },
   {
    "n": 117,
@@ -1528,7 +1644,8 @@ window.PLAYLIST = {
    "dur": 120,
    "kb": 11662,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/117-doXie_Da_Ren_Zha.flac"
   },
   {
    "n": 118,
@@ -1541,7 +1658,8 @@ window.PLAYLIST = {
    "dur": 219,
    "kb": 8641,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/118-Zhuan_Sheng_Lin_Qin_Zhuan_Sheng_Ping_Guo.mp3"
   },
   {
    "n": 119,
@@ -1554,7 +1672,8 @@ window.PLAYLIST = {
    "dur": 269,
    "kb": 10563,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/119-manimani_Sui_Zhi_Ren_Zhi.mp3"
   },
   {
    "n": 120,
@@ -1567,7 +1686,8 @@ window.PLAYLIST = {
    "dur": 147,
    "kb": 5770,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/120-Yue_gaQi_Li_netoYan_waretai.mp3"
   },
   {
    "n": 121,
@@ -1580,7 +1700,8 @@ window.PLAYLIST = {
    "dur": 292,
    "kb": 11450,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/121-SAY_IT.mp3"
   },
   {
    "n": 122,
@@ -1593,7 +1714,8 @@ window.PLAYLIST = {
    "dur": 203,
    "kb": 8039,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/122-benomu_Meng_Du.mp3"
   },
   {
    "n": 123,
@@ -1606,7 +1728,8 @@ window.PLAYLIST = {
    "dur": 249,
    "kb": 9799,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/123-ochiyameJi_Neng_feat_Zhong_Yin_teto.mp3"
   },
   {
    "n": 124,
@@ -1619,7 +1742,8 @@ window.PLAYLIST = {
    "dur": 214,
    "kb": 8479,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/124-memori_Memory_Hui_Yi_Memory.mp3"
   },
   {
    "n": 125,
@@ -1632,7 +1756,8 @@ window.PLAYLIST = {
    "dur": 172,
    "kb": 21755,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/125-gutsubaiXuan_Yan_Zai_Jian_Xuan_Yan.flac"
   },
   {
    "n": 126,
@@ -1645,7 +1770,8 @@ window.PLAYLIST = {
    "dur": 134,
    "kb": 5267,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/126-ru_puzaru_mu_feat_Chu_Yin_miku_Looping_the_Rooms.mp3"
   },
   {
    "n": 127,
@@ -1658,7 +1784,8 @@ window.PLAYLIST = {
    "dur": 169,
    "kb": 6672,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/127-usotsukimakaron_feat_Zhong_Yin_teto_Shuo_Huang_De_Ma_Qia_Lon.mp3"
   },
   {
    "n": 128,
@@ -1671,7 +1798,8 @@ window.PLAYLIST = {
    "dur": 224,
    "kb": 8850,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/128-inta_netsutoka_nibaru.mp3"
   },
   {
    "n": 129,
@@ -1684,7 +1812,8 @@ window.PLAYLIST = {
    "dur": 271,
    "kb": 10699,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/129-Blessing_Zhu_Fu.mp3"
   },
   {
    "n": 130,
@@ -1697,7 +1826,8 @@ window.PLAYLIST = {
    "dur": 159,
    "kb": 6296,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/130-hagu_feat_Chu_Yin_miku_Ke_Bu.mp3"
   },
   {
    "n": 131,
@@ -1710,7 +1840,8 @@ window.PLAYLIST = {
    "dur": 305,
    "kb": 12022,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/131-moremoremore.mp3"
   },
   {
    "n": 132,
@@ -1723,7 +1854,8 @@ window.PLAYLIST = {
    "dur": 216,
    "kb": 8542,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/132-rosutowannoHao_Ku_Lost_OneDe_Hao_Ku.mp3"
   },
   {
    "n": 133,
@@ -1736,7 +1868,8 @@ window.PLAYLIST = {
    "dur": 125,
    "kb": 24401,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/133-minagoroshi_Ba_Ni_Men_Du_Sha_Liao.flac"
   },
   {
    "n": 134,
@@ -1749,7 +1882,8 @@ window.PLAYLIST = {
    "dur": 240,
    "kb": 9472,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/134-Re_Yi_Chang_feat_Zu_Li_rei_Re_Yi_Chang.mp3"
   },
   {
    "n": 135,
@@ -1762,7 +1896,8 @@ window.PLAYLIST = {
    "dur": 199,
    "kb": 7849,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/135-huashineita_feat_Chu_Yin_miku_Fascinator.mp3"
   },
   {
    "n": 136,
@@ -1775,7 +1910,8 @@ window.PLAYLIST = {
    "dur": 222,
    "kb": 3542,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/136-Shao_Nu_A.mp3"
   },
   {
    "n": 137,
@@ -1788,7 +1924,8 @@ window.PLAYLIST = {
    "dur": 200,
    "kb": 7916,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/137-Shi_Bai_Zuo_Shao_Nu.mp3"
   },
   {
    "n": 138,
@@ -1801,7 +1938,8 @@ window.PLAYLIST = {
    "dur": 155,
    "kb": 6155,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/138-PPPP_feat_Hatsune_Miku_Kasane_Teto.mp3"
   },
   {
    "n": 139,
@@ -1814,7 +1952,8 @@ window.PLAYLIST = {
    "dur": 274,
    "kb": 10837,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/139-urutoratore_ra_Chao_Yu_Gao_Pian.mp3"
   },
   {
    "n": 140,
@@ -1827,7 +1966,8 @@ window.PLAYLIST = {
    "dur": 211,
    "kb": 23187,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/140-NIGHT_DANCER.flac"
   },
   {
    "n": 141,
@@ -1840,7 +1980,8 @@ window.PLAYLIST = {
    "dur": 185,
    "kb": 7280,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/141-oFan_Shi_madakana_ozisanGou_Wen_feat_Yu_Yi_Still_Waiting_for.mp3"
   },
   {
    "n": 142,
@@ -1853,7 +1994,8 @@ window.PLAYLIST = {
    "dur": 169,
    "kb": 6696,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/142-kiyandei_kutsuki_chiyokore_to_feat_Chu_Yin_miku_Zhong_Yin_te.mp3"
   },
   {
    "n": 143,
@@ -1866,7 +2008,8 @@ window.PLAYLIST = {
    "dur": 208,
    "kb": 8226,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/143-Za_Yu.mp3"
   },
   {
    "n": 144,
@@ -1879,7 +2022,8 @@ window.PLAYLIST = {
    "dur": 180,
    "kb": 7144,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/144-Chao_Zhu_Ren_Gong.mp3"
   },
   {
    "n": 145,
@@ -1892,7 +2036,8 @@ window.PLAYLIST = {
    "dur": 155,
    "kb": 2427,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/145-daidaidaidaidaikirai_Chao_Ji_Chao_Ji_Chao_Ji_Tao_Yan_Chao_Ji.mp3"
   },
   {
    "n": 146,
@@ -1905,7 +2050,8 @@ window.PLAYLIST = {
    "dur": 188,
    "kb": 7387,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/146-saiensu_feat_Zhong_Yin_teto.mp3"
   },
   {
    "n": 147,
@@ -1918,7 +2064,8 @@ window.PLAYLIST = {
    "dur": 237,
    "kb": 9280,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/147-umiyuriHai_Di_Tan_Hai_Bai_He_Hai_Di_Tan.mp3"
   },
   {
    "n": 148,
@@ -1931,7 +2078,8 @@ window.PLAYLIST = {
    "dur": 184,
    "kb": 7232,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/148-moa_ziyanpu_moa_More_Jump_More.mp3"
   },
   {
    "n": 149,
@@ -1944,7 +2092,8 @@ window.PLAYLIST = {
    "dur": 189,
    "kb": 7434,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/149-rireiauta_Zhong_Ji_Shu_Chu_Zhe.mp3"
   },
   {
    "n": 150,
@@ -1957,7 +2106,8 @@ window.PLAYLIST = {
    "dur": 289,
    "kb": 11408,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/150-Chu_Yin_mikunoXiao_Shi_Chu_Yin_Wei_Lai_De_Xiao_Shi.mp3"
   },
   {
    "n": 151,
@@ -1970,7 +2120,8 @@ window.PLAYLIST = {
    "dur": 253,
    "kb": 9941,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/151-IMAWANOKIWA.mp3"
   },
   {
    "n": 152,
@@ -1983,7 +2134,8 @@ window.PLAYLIST = {
    "dur": 204,
    "kb": 21237,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/152-1000Nian_Sheng_kiteru_Cun_Huo_Qian_Nian.flac"
   },
   {
    "n": 153,
@@ -1996,7 +2148,8 @@ window.PLAYLIST = {
    "dur": 190,
    "kb": 7485,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/153-ro_ringa_ru_Fan_Zhuan_Shao_Nu.mp3"
   },
   {
    "n": 154,
@@ -2009,7 +2162,8 @@ window.PLAYLIST = {
    "dur": 277,
    "kb": 10896,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/154-Zhen_Ye_Zhong_nodoa_Stay_With_Me_Shen_Ye_Zhi_Men_Stay_With_M.mp3"
   },
   {
    "n": 155,
@@ -2022,7 +2176,8 @@ window.PLAYLIST = {
    "dur": 339,
    "kb": 13324,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/155-My_Dearest.mp3"
   },
   {
    "n": 156,
@@ -2035,7 +2190,8 @@ window.PLAYLIST = {
    "dur": 256,
    "kb": 10076,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/156-hakemononoBai_Guai_Wu_Zhi_Ge_Guai_Wu_Zhi_Ge.mp3"
   },
   {
    "n": 157,
@@ -2048,7 +2204,8 @@ window.PLAYLIST = {
    "dur": 232,
    "kb": 9096,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/157-chitsuchiyanaSi_Xiao_Xiao_De_Wo_Xiao_Xiao_De_Wo.mp3"
   },
   {
    "n": 158,
@@ -2061,7 +2218,8 @@ window.PLAYLIST = {
    "dur": 199,
    "kb": 7850,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/158-anone.mp3"
   },
   {
    "n": 159,
@@ -2074,7 +2232,8 @@ window.PLAYLIST = {
    "dur": 301,
    "kb": 11826,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/159-our_painted_sky.mp3"
   },
   {
    "n": 160,
@@ -2087,7 +2246,8 @@ window.PLAYLIST = {
    "dur": 339,
    "kb": 5309,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/160-Yu_Shi_Jin_Tian_You_Huo_Liao_Xia_Lai.mp3"
   },
   {
    "n": 161,
@@ -2100,7 +2260,8 @@ window.PLAYLIST = {
    "dur": 122,
    "kb": 4825,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/161-imasuguLun_Hui_Ji_Ke_Lun_Hui.mp3"
   },
   {
    "n": 162,
@@ -2113,7 +2274,8 @@ window.PLAYLIST = {
    "dur": 188,
    "kb": 22782,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/162-harunoJi_Mo_Chun_Ri_Ji_Mo.flac"
   },
   {
    "n": 163,
@@ -2126,7 +2288,8 @@ window.PLAYLIST = {
    "dur": 206,
    "kb": 24824,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/163-Shen_Hai_Shao_Nu.flac"
   },
   {
    "n": 164,
@@ -2139,7 +2302,8 @@ window.PLAYLIST = {
    "dur": 254,
    "kb": 10000,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/164-wa_rudoizumain_World_is_Mine.mp3"
   },
   {
    "n": 165,
@@ -2152,7 +2316,8 @@ window.PLAYLIST = {
    "dur": 232,
    "kb": 9182,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/165-Bing_Ming_haAi_datsuta_Bing_Ming_Wei_Ai.mp3"
   },
   {
    "n": 166,
@@ -2165,7 +2330,8 @@ window.PLAYLIST = {
    "dur": 120,
    "kb": 4747,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/166-Interplanetary.mp3"
   },
   {
    "n": 167,
@@ -2178,7 +2344,8 @@ window.PLAYLIST = {
    "dur": 96,
    "kb": 11106,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/167-I_Can_t_Wait.flac"
   },
   {
    "n": 168,
@@ -2191,7 +2358,8 @@ window.PLAYLIST = {
    "dur": 279,
    "kb": 11097,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/168-announ_maza_gu_su_Unknown_Mother_Goose.mp3"
   },
   {
    "n": 169,
@@ -2204,7 +2372,8 @@ window.PLAYLIST = {
    "dur": 305,
    "kb": 12172,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/169-Xin_Bao_Dao.mp3"
   },
   {
    "n": 170,
@@ -2217,7 +2386,8 @@ window.PLAYLIST = {
    "dur": 204,
    "kb": 7997,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/170-Ye_Xing.mp3"
   },
   {
    "n": 171,
@@ -2230,7 +2400,8 @@ window.PLAYLIST = {
    "dur": 157,
    "kb": 21185,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/171-mezumaraiza.flac"
   },
   {
    "n": 172,
@@ -2243,7 +2414,8 @@ window.PLAYLIST = {
    "dur": 217,
    "kb": 8541,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/172-kiyuukurarin_Xin_Tiao_Bu_Zhi.mp3"
   },
   {
    "n": 173,
@@ -2256,7 +2428,8 @@ window.PLAYLIST = {
    "dur": 204,
    "kb": 23741,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/173-Astronomy.flac"
   },
   {
    "n": 174,
@@ -2269,7 +2442,8 @@ window.PLAYLIST = {
    "dur": 174,
    "kb": 6872,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/174-Ai_Shu_Xing.mp3"
   },
   {
    "n": 175,
@@ -2282,7 +2456,8 @@ window.PLAYLIST = {
    "dur": 143,
    "kb": 20295,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/175-tetorisu_E_Luo_Si_Fang_Kuai.flac"
   },
   {
    "n": 176,
@@ -2295,7 +2470,8 @@ window.PLAYLIST = {
    "dur": 221,
    "kb": 8736,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/176-Shu_Fu_Ai.mp3"
   },
   {
    "n": 177,
@@ -2308,7 +2484,8 @@ window.PLAYLIST = {
    "dur": 189,
    "kb": 7459,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/177-Li_Biao_raba_zu_Li_Biao_Qing_Ren.mp3"
   },
   {
    "n": 178,
@@ -2321,7 +2498,8 @@ window.PLAYLIST = {
    "dur": 238,
    "kb": 9341,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/178-unravel.mp3"
   },
   {
    "n": 179,
@@ -2334,7 +2512,8 @@ window.PLAYLIST = {
    "dur": 242,
    "kb": 9563,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/179-INTERNET_YAMERO_Kuai_Yuan_Chi_Hu_Lian_Wang.mp3"
   },
   {
    "n": 180,
@@ -2347,7 +2526,8 @@ window.PLAYLIST = {
    "dur": 221,
    "kb": 8738,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/180-INTERNET_OVERDOSE.mp3"
   },
   {
    "n": 181,
@@ -2360,7 +2540,8 @@ window.PLAYLIST = {
    "dur": 142,
    "kb": 18416,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/181-Mu_Ji_teto31Shi_feat_Zhong_Yin_teto_Yu_Yi_Mu_Ji_teto31Shi.flac"
   },
   {
    "n": 182,
@@ -2373,7 +2554,8 @@ window.PLAYLIST = {
    "dur": 163,
    "kb": 6507,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/182-TShi_noHua_woXin_ziruna_feat_Chu_Yin_miku_Zhong_Yin_teto_Bu.mp3"
   },
   {
    "n": 183,
@@ -2386,7 +2568,8 @@ window.PLAYLIST = {
    "dur": 263,
    "kb": 10294,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/183-ne_Tu_Hui_e_Bei_Nan_Quan_ka_n_I_yo_ru_no_D_A_Single_Version.mp3"
   },
   {
    "n": 184,
@@ -2399,7 +2582,8 @@ window.PLAYLIST = {
    "dur": 162,
    "kb": 19648,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/184-haro_sekai_ba_chiyaru_shinga_ver.flac"
   },
   {
    "n": 185,
@@ -2412,7 +2596,8 @@ window.PLAYLIST = {
    "dur": 142,
    "kb": 18058,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/185-dori_mumo_do.flac"
   },
   {
    "n": 186,
@@ -2425,7 +2610,8 @@ window.PLAYLIST = {
    "dur": 204,
    "kb": 8040,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/186-rosutoanburera_Lost_Umbrella.mp3"
   },
   {
    "n": 187,
@@ -2438,7 +2624,8 @@ window.PLAYLIST = {
    "dur": 359,
    "kb": 14083,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/187-before_light.mp3"
   },
   {
    "n": 188,
@@ -2451,7 +2638,8 @@ window.PLAYLIST = {
    "dur": 125,
    "kb": 12554,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/188-Dead_Inside.flac"
   },
   {
    "n": 189,
@@ -2464,7 +2652,8 @@ window.PLAYLIST = {
    "dur": 253,
    "kb": 9935,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/189-ragutorein_Yan_Wu_Lie_Che.mp3"
   },
   {
    "n": 190,
@@ -2477,7 +2666,8 @@ window.PLAYLIST = {
    "dur": 226,
    "kb": 8959,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/190-The_Fate_of_Ophelia.mp3"
   },
   {
    "n": 191,
@@ -2490,7 +2680,8 @@ window.PLAYLIST = {
    "dur": 199,
    "kb": 7842,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/191-Ju_Shang.mp3"
   },
   {
    "n": 192,
@@ -2503,7 +2694,8 @@ window.PLAYLIST = {
    "dur": 205,
    "kb": 8071,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/192-mi_mu_kau_wa_na_i_su_to_ra_i.mp3"
   },
   {
    "n": 193,
@@ -2516,7 +2708,8 @@ window.PLAYLIST = {
    "dur": 204,
    "kb": 23971,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/193-Shen_tsupoina_Xiang_Shen_Yi_Yang_Ne.flac"
   },
   {
    "n": 194,
@@ -2529,7 +2722,8 @@ window.PLAYLIST = {
    "dur": 197,
    "kb": 24917,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/194-indoaXi_naratoratsukumeika_Nei_Xiang_Du_Shi_Zuo_Qu_Jia.flac"
   },
   {
    "n": 195,
@@ -2542,7 +2736,8 @@ window.PLAYLIST = {
    "dur": 201,
    "kb": 7873,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/195-Next_to_me.mp3"
   },
   {
    "n": 196,
@@ -2555,7 +2750,8 @@ window.PLAYLIST = {
    "dur": 199,
    "kb": 24685,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/196-Never_Let_Me_Go.flac"
   },
   {
    "n": 197,
@@ -2568,7 +2764,8 @@ window.PLAYLIST = {
    "dur": 319,
    "kb": 12603,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/197-Bad_Apple_Pi_Ping_Guo.mp3"
   },
   {
    "n": 198,
@@ -2581,7 +2778,8 @@ window.PLAYLIST = {
    "dur": 112,
    "kb": 4425,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/198-ha_to111_Xin_Tiao_111.mp3"
   },
   {
    "n": 199,
@@ -2594,7 +2792,8 @@ window.PLAYLIST = {
    "dur": 177,
    "kb": 7065,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/199-monitaringu_Shi_Jian.mp3"
   },
   {
    "n": 200,
@@ -2607,7 +2806,8 @@ window.PLAYLIST = {
    "dur": 188,
    "kb": 7442,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/200-Colder_Explicit.mp3"
   },
   {
    "n": 201,
@@ -2620,7 +2820,8 @@ window.PLAYLIST = {
    "dur": 137,
    "kb": 15481,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/201-Qiang_Feng_o_rubatsuku_Qiang_Feng_Da_Bei_Tou.flac"
   },
   {
    "n": 202,
@@ -2633,7 +2834,8 @@ window.PLAYLIST = {
    "dur": 184,
    "kb": 23167,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/202-Za_Ta_Pu_ranoJie_Xi_Xi_Rang_Rang_Wo_Men_De_Cheng_Shi.flac"
   },
   {
    "n": 203,
@@ -2646,7 +2848,8 @@ window.PLAYLIST = {
    "dur": 167,
    "kb": 6598,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/203-Ai_suruyouni_COVERBan.mp3"
   },
   {
    "n": 204,
@@ -2659,7 +2862,8 @@ window.PLAYLIST = {
    "dur": 299,
    "kb": 11726,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/204-Hao_kidakara_Yin_Wei_Wo_Xi_Huan_Ni.mp3"
   },
   {
    "n": 205,
@@ -2672,7 +2876,8 @@ window.PLAYLIST = {
    "dur": 147,
    "kb": 5838,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/205-Jin_haiindayo_Cover_Wo_Xian_Zai_Hen_Hao.mp3"
   },
   {
    "n": 206,
@@ -2685,7 +2890,8 @@ window.PLAYLIST = {
    "dur": 125,
    "kb": 4986,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/206-After_Hours_Dian_Zi_Remix.mp3"
   },
   {
    "n": 207,
@@ -2698,7 +2904,8 @@ window.PLAYLIST = {
    "dur": 254,
    "kb": 10023,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/207-Guang_runara_Ruo_Neng_Zhan_Fang_Guang_Mang.mp3"
   },
   {
    "n": 208,
@@ -2711,7 +2918,8 @@ window.PLAYLIST = {
    "dur": 180,
    "kb": 19976,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/208-Wasted_Murkish_Remix_Explicit.flac"
   },
   {
    "n": 209,
@@ -2724,7 +2932,8 @@ window.PLAYLIST = {
    "dur": 339,
    "kb": 13299,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/209-Jue_Dui_nichiyokomintowoShi_beruaoichiyan.mp3"
   },
   {
    "n": 210,
@@ -2737,7 +2946,8 @@ window.PLAYLIST = {
    "dur": 272,
    "kb": 10726,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/210-Zhi_Zhu_Mi_monopori_Zhi_Zhu_Si_Monopoly.mp3"
   },
   {
    "n": 211,
@@ -2750,7 +2960,8 @@ window.PLAYLIST = {
    "dur": 212,
    "kb": 8429,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/211-rabureta_Qing_Shu.mp3"
   },
   {
    "n": 212,
@@ -2763,7 +2974,8 @@ window.PLAYLIST = {
    "dur": 143,
    "kb": 5626,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/212-Dive_In.mp3"
   },
   {
    "n": 213,
@@ -2776,7 +2988,8 @@ window.PLAYLIST = {
    "dur": 173,
    "kb": 6788,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/213-Pixel_Pig.mp3"
   },
   {
    "n": 214,
@@ -2789,7 +3002,8 @@ window.PLAYLIST = {
    "dur": 292,
    "kb": 4676,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/214-Weavers.mp3"
   },
   {
    "n": 215,
@@ -2802,7 +3016,8 @@ window.PLAYLIST = {
    "dur": 169,
    "kb": 6665,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/215-Close_Your_Eyes.mp3"
   },
   {
    "n": 216,
@@ -2815,7 +3030,8 @@ window.PLAYLIST = {
    "dur": 189,
    "kb": 7455,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/216-Make_A_Move.mp3"
   },
   {
    "n": 217,
@@ -2828,7 +3044,8 @@ window.PLAYLIST = {
    "dur": 303,
    "kb": 11923,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/217-Cry_For_Me_feat_Ami_Wei_Wo_Ku_Qi.mp3"
   },
   {
    "n": 218,
@@ -2841,7 +3058,8 @@ window.PLAYLIST = {
    "dur": 202,
    "kb": 7922,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/218-moshimoMing_gaMiao_ketara_Ruo_Neng_Miao_Hui_Sheng_Ming.mp3"
   },
   {
    "n": 219,
@@ -2854,7 +3072,8 @@ window.PLAYLIST = {
    "dur": 271,
    "kb": 10654,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/219-anko_ru_An_Ke.mp3"
   },
   {
    "n": 220,
@@ -2867,7 +3086,8 @@ window.PLAYLIST = {
    "dur": 191,
    "kb": 3051,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/220-tada_Jun_nomamade_Single_Version.mp3"
   },
   {
    "n": 221,
@@ -2880,7 +3100,8 @@ window.PLAYLIST = {
    "dur": 256,
    "kb": 10176,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/221-Shen_nomanimani_Sui_Shen_Zhi_Ce.mp3"
   },
   {
    "n": 222,
@@ -2893,7 +3114,8 @@ window.PLAYLIST = {
    "dur": 243,
    "kb": 9577,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/222-dakaraPu_haYin_Le_woCi_meta_Suo_Yi_Wo_Fang_Qi_Liao_Yin_Le.mp3"
   },
   {
    "n": 223,
@@ -2906,7 +3128,8 @@ window.PLAYLIST = {
    "dur": 167,
    "kb": 6575,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/223-Luo_Xia.mp3"
   },
   {
    "n": 224,
@@ -2919,7 +3142,8 @@ window.PLAYLIST = {
    "dur": 170,
    "kb": 6732,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/224-APT.mp3"
   },
   {
    "n": 225,
@@ -2932,7 +3156,8 @@ window.PLAYLIST = {
    "dur": 203,
    "kb": 7969,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/225-Tai_Yang_Xi_desuko_Tai_Yang_Xi_Disco.mp3"
   },
   {
    "n": 226,
@@ -2945,7 +3170,8 @@ window.PLAYLIST = {
    "dur": 212,
    "kb": 8307,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/226-Heroes_we_could_be.mp3"
   },
   {
    "n": 227,
@@ -2958,7 +3184,8 @@ window.PLAYLIST = {
    "dur": 231,
    "kb": 9077,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/227-Nobody_Compares_To_You.mp3"
   },
   {
    "n": 228,
@@ -2971,7 +3198,8 @@ window.PLAYLIST = {
    "dur": 196,
    "kb": 7782,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/228-Zhu_Fu.mp3"
   },
   {
    "n": 229,
@@ -2984,7 +3212,8 @@ window.PLAYLIST = {
    "dur": 198,
    "kb": 7786,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/229-haruzion_Chun_Zi_Wan.mp3"
   },
   {
    "n": 230,
@@ -2997,7 +3226,8 @@ window.PLAYLIST = {
    "dur": 228,
    "kb": 8946,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/230-The_Way_I_Still_Love_You.mp3"
   },
   {
    "n": 231,
@@ -3010,7 +3240,8 @@ window.PLAYLIST = {
    "dur": 166,
    "kb": 6510,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/231-Toca_Toca_Radio_Edit.mp3"
   },
   {
    "n": 232,
@@ -3023,7 +3254,8 @@ window.PLAYLIST = {
    "dur": 156,
    "kb": 6147,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/232-honmei_feat_Nqsi_Ben_Ming.mp3"
   },
   {
    "n": 233,
@@ -3036,7 +3268,8 @@ window.PLAYLIST = {
    "dur": 248,
    "kb": 9762,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/233-zenbuXian_ida_Quan_Bu_Du_Tao_Yan.mp3"
   },
   {
    "n": 234,
@@ -3049,7 +3282,8 @@ window.PLAYLIST = {
    "dur": 129,
    "kb": 5084,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/234-One_More_Last_Time.mp3"
   },
   {
    "n": 235,
@@ -3062,7 +3296,8 @@ window.PLAYLIST = {
    "dur": 204,
    "kb": 8047,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/235-horoyoi_Wei_Xun.mp3"
   },
   {
    "n": 236,
@@ -3075,7 +3310,8 @@ window.PLAYLIST = {
    "dur": 219,
    "kb": 8679,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/236-mouShao_shidake_Zhi_Yao_Duo_Yi_Dian.mp3"
   },
   {
    "n": 237,
@@ -3088,7 +3324,8 @@ window.PLAYLIST = {
    "dur": 405,
    "kb": 15915,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/237-matanegaareba_Ru_Guo_Huan_You_Zai_Jian_De_Hua.mp3"
   },
   {
    "n": 238,
@@ -3101,7 +3338,8 @@ window.PLAYLIST = {
    "dur": 240,
    "kb": 9455,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/238-Feng_notayori.mp3"
   },
   {
    "n": 239,
@@ -3114,7 +3352,8 @@ window.PLAYLIST = {
    "dur": 162,
    "kb": 6370,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/239-tadaSheng_Yi_tsu_Zhi_Xiang_Shuo_Yi_Sheng.mp3"
   },
   {
    "n": 240,
@@ -3127,7 +3366,8 @@ window.PLAYLIST = {
    "dur": 216,
    "kb": 8551,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/240-supa_kuru_Huo_Hua.mp3"
   },
   {
    "n": 241,
@@ -3140,7 +3380,8 @@ window.PLAYLIST = {
    "dur": 333,
    "kb": 13087,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/241-Yuan_i_anoQing_nokimihe_Qi_Yuan_Zhi_Na_Ge_Shi_Hou_De_Ni.mp3"
   },
   {
    "n": 242,
@@ -3153,7 +3394,8 @@ window.PLAYLIST = {
    "dur": 284,
    "kb": 11170,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/242-Qian_Qian_Qian_Shi_Movie_ver.mp3"
   },
   {
    "n": 243,
@@ -3166,7 +3408,8 @@ window.PLAYLIST = {
    "dur": 252,
    "kb": 9924,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/243-One_Last_Kiss_Zui_Hou_Yi_Wen.mp3"
   },
   {
    "n": 244,
@@ -3179,7 +3422,8 @@ window.PLAYLIST = {
    "dur": 161,
    "kb": 6338,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/244-Fly_To_Meteor_ft_Tu_Qi.mp3"
   },
   {
    "n": 245,
@@ -3192,7 +3436,8 @@ window.PLAYLIST = {
    "dur": 266,
    "kb": 4218,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/245-LEVEL5_judgelight.mp3"
   },
   {
    "n": 246,
@@ -3205,7 +3450,8 @@ window.PLAYLIST = {
    "dur": 272,
    "kb": 4281,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/246-Ban.mp3"
   },
   {
    "n": 247,
@@ -3218,7 +3464,8 @@ window.PLAYLIST = {
    "dur": 261,
    "kb": 10268,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/247-Ye_niQu_keru_Xiang_Ye_Wan_Ben_Qu.mp3"
   },
   {
    "n": 248,
@@ -3231,7 +3478,8 @@ window.PLAYLIST = {
    "dur": 259,
    "kb": 10205,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/248-tabun_Da_Gai.mp3"
   },
   {
    "n": 249,
@@ -3244,7 +3492,8 @@ window.PLAYLIST = {
    "dur": 249,
    "kb": 9749,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/249-GIMME_Version.mp3"
   },
   {
    "n": 250,
@@ -3257,7 +3506,8 @@ window.PLAYLIST = {
    "dur": 225,
    "kb": 8841,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/250-Worth_It.mp3"
   },
   {
    "n": 251,
@@ -3270,7 +3520,8 @@ window.PLAYLIST = {
    "dur": 236,
    "kb": 9298,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/251-Hong_Lian_Hua.mp3"
   },
   {
    "n": 252,
@@ -3283,7 +3534,8 @@ window.PLAYLIST = {
    "dur": 257,
    "kb": 10151,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/252-only_my_railgun.mp3"
   },
   {
    "n": 253,
@@ -3296,7 +3548,8 @@ window.PLAYLIST = {
    "dur": 103,
    "kb": 4079,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/253-nop.mp3"
   },
   {
    "n": 254,
@@ -3309,7 +3562,8 @@ window.PLAYLIST = {
    "dur": 167,
    "kb": 6620,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/254-Raindrops.mp3"
   },
   {
    "n": 255,
@@ -3322,7 +3576,8 @@ window.PLAYLIST = {
    "dur": 189,
    "kb": 7439,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/255-phony.mp3"
   },
   {
    "n": 256,
@@ -3335,7 +3590,8 @@ window.PLAYLIST = {
    "dur": 162,
    "kb": 6363,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/256-haiyorokonde_Le_Yi_Xiao_Lao.mp3"
   },
   {
    "n": 257,
@@ -3348,7 +3604,8 @@ window.PLAYLIST = {
    "dur": 213,
    "kb": 8444,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/257-aidoru_Ou_Xiang.mp3"
   },
   {
    "n": 258,
@@ -3361,7 +3618,8 @@ window.PLAYLIST = {
    "dur": 206,
    "kb": 8097,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/258-Guai_Wu.mp3"
   },
   {
    "n": 259,
@@ -3374,7 +3632,8 @@ window.PLAYLIST = {
    "dur": 207,
    "kb": 8151,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/259-Million_Miles.mp3"
   },
   {
    "n": 260,
@@ -3387,7 +3646,8 @@ window.PLAYLIST = {
    "dur": 109,
    "kb": 4380,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/260-TIRED_OF_PROBLEMS_Explicit.mp3"
   },
   {
    "n": 261,
@@ -3400,7 +3660,8 @@ window.PLAYLIST = {
    "dur": 193,
    "kb": 7603,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/261-Cotton_Eye_Joe.mp3"
   },
   {
    "n": 262,
@@ -3413,7 +3674,8 @@ window.PLAYLIST = {
    "dur": 182,
    "kb": 2880,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/262-No_Mercy.mp3"
   },
   {
    "n": 263,
@@ -3426,7 +3688,8 @@ window.PLAYLIST = {
    "dur": 185,
    "kb": 7270,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/263-Daylight_Inst.mp3"
   },
   {
    "n": 265,
@@ -3439,7 +3702,8 @@ window.PLAYLIST = {
    "dur": 77,
    "kb": 3038,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/265-EGGSTREME_DUCK_PHONK_Explicit.mp3"
   },
   {
    "n": 266,
@@ -3452,7 +3716,8 @@ window.PLAYLIST = {
    "dur": 232,
    "kb": 3680,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/266-Baby_I_Don_t_Care.mp3"
   },
   {
    "n": 267,
@@ -3465,7 +3730,8 @@ window.PLAYLIST = {
    "dur": 219,
    "kb": 8632,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/267-Run_It_Explicit.mp3"
   },
   {
    "n": 268,
@@ -3478,7 +3744,8 @@ window.PLAYLIST = {
    "dur": 215,
    "kb": 8428,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/268-Body_Back.mp3"
   },
   {
    "n": 269,
@@ -3491,7 +3758,8 @@ window.PLAYLIST = {
    "dur": 197,
    "kb": 7840,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/269-Neon_Sky.mp3"
   },
   {
    "n": 270,
@@ -3504,7 +3772,8 @@ window.PLAYLIST = {
    "dur": 186,
    "kb": 2987,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/270-Show_Tell.mp3"
   },
   {
    "n": 271,
@@ -3517,7 +3786,8 @@ window.PLAYLIST = {
    "dur": 203,
    "kb": 7997,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/271-Million_Miles.mp3"
   },
   {
    "n": 272,
@@ -3530,7 +3800,8 @@ window.PLAYLIST = {
    "dur": 206,
    "kb": 8127,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/272-Hear_Me_Now_feat_Luma.mp3"
   },
   {
    "n": 273,
@@ -3543,7 +3814,8 @@ window.PLAYLIST = {
    "dur": 178,
    "kb": 7018,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/273-Whatever.mp3"
   },
   {
    "n": 274,
@@ -3556,7 +3828,8 @@ window.PLAYLIST = {
    "dur": 237,
    "kb": 9332,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/274-Afraid_To_Love.mp3"
   },
   {
    "n": 275,
@@ -3569,7 +3842,8 @@ window.PLAYLIST = {
    "dur": 205,
    "kb": 8067,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/275-One_Life.mp3"
   },
   {
    "n": 276,
@@ -3582,7 +3856,8 @@ window.PLAYLIST = {
    "dur": 190,
    "kb": 7539,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/276-Maps.mp3"
   },
   {
    "n": 277,
@@ -3595,7 +3870,8 @@ window.PLAYLIST = {
    "dur": 193,
    "kb": 7633,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/277-Summer_Life.mp3"
   },
   {
    "n": 278,
@@ -3608,7 +3884,8 @@ window.PLAYLIST = {
    "dur": 151,
    "kb": 6003,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/278-Ievan_Polkka.mp3"
   },
   {
    "n": 279,
@@ -3621,7 +3898,8 @@ window.PLAYLIST = {
    "dur": 216,
    "kb": 3398,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/279-Sweden.mp3"
   },
   {
    "n": 280,
@@ -3634,7 +3912,8 @@ window.PLAYLIST = {
    "dur": 90,
    "kb": 1435,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/280-Wet_Hands.mp3"
   },
   {
    "n": 281,
@@ -3647,7 +3926,8 @@ window.PLAYLIST = {
    "dur": 157,
    "kb": 6244,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/281-Stay_Young.mp3"
   },
   {
    "n": 282,
@@ -3660,7 +3940,8 @@ window.PLAYLIST = {
    "dur": 202,
    "kb": 7936,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/282-The_Call.mp3"
   },
   {
    "n": 283,
@@ -3673,7 +3954,8 @@ window.PLAYLIST = {
    "dur": 156,
    "kb": 6161,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/283-I_Just_Can_t.mp3"
   },
   {
    "n": 284,
@@ -3686,7 +3968,8 @@ window.PLAYLIST = {
    "dur": 200,
    "kb": 7907,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/284-Chasing_Shadows.mp3"
   },
   {
    "n": 285,
@@ -3699,7 +3982,8 @@ window.PLAYLIST = {
    "dur": 218,
    "kb": 8613,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/285-Can_You_Hear_Me.mp3"
   },
   {
    "n": 286,
@@ -3712,7 +3996,8 @@ window.PLAYLIST = {
    "dur": 186,
    "kb": 7397,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/286-Do_Better.mp3"
   },
   {
    "n": 287,
@@ -3725,7 +4010,8 @@ window.PLAYLIST = {
    "dur": 218,
    "kb": 8574,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/287-Quicksand.mp3"
   },
   {
    "n": 289,
@@ -3738,7 +4024,8 @@ window.PLAYLIST = {
    "dur": 219,
    "kb": 8624,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/289-Paris_VINAI_Remix.mp3"
   },
   {
    "n": 290,
@@ -3751,7 +4038,8 @@ window.PLAYLIST = {
    "dur": 170,
    "kb": 6713,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/290-Sorry.mp3"
   },
   {
    "n": 291,
@@ -3764,7 +4052,8 @@ window.PLAYLIST = {
    "dur": 170,
    "kb": 6787,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/291-Scared.mp3"
   },
   {
    "n": 292,
@@ -3777,7 +4066,8 @@ window.PLAYLIST = {
    "dur": 199,
    "kb": 7860,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/292-All_My_People.mp3"
   },
   {
    "n": 293,
@@ -3790,7 +4080,8 @@ window.PLAYLIST = {
    "dur": 32,
    "kb": 532,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/293-Galaxy.mp3"
   },
   {
    "n": 294,
@@ -3803,7 +4094,8 @@ window.PLAYLIST = {
    "dur": 269,
    "kb": 10593,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/294-Solace.mp3"
   },
   {
    "n": 295,
@@ -3816,7 +4108,8 @@ window.PLAYLIST = {
    "dur": 156,
    "kb": 6152,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/295-Show_it_Ben.mp3"
   },
   {
    "n": 296,
@@ -3829,7 +4122,8 @@ window.PLAYLIST = {
    "dur": 177,
    "kb": 6973,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/296-The_Nights.mp3"
   },
   {
    "n": 297,
@@ -3842,7 +4136,8 @@ window.PLAYLIST = {
    "dur": 257,
    "kb": 10125,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/297-Counting_Stars.mp3"
   },
   {
    "n": 298,
@@ -3855,7 +4150,8 @@ window.PLAYLIST = {
    "dur": 209,
    "kb": 8364,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/298-Memory_Reboot.mp3"
   },
   {
    "n": 299,
@@ -3868,7 +4164,8 @@ window.PLAYLIST = {
    "dur": 191,
    "kb": 7519,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/299-Shed_A_Light.mp3"
   },
   {
    "n": 300,
@@ -3881,7 +4178,8 @@ window.PLAYLIST = {
    "dur": 155,
    "kb": 6091,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/300-One_Last_Time.mp3"
   },
   {
    "n": 301,
@@ -3894,7 +4192,8 @@ window.PLAYLIST = {
    "dur": 183,
    "kb": 2932,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/301-Free_travel.mp3"
   },
   {
    "n": 302,
@@ -3907,7 +4206,8 @@ window.PLAYLIST = {
    "dur": 132,
    "kb": 5198,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/302-Kiss_Me_In_Berlin.mp3"
   },
   {
    "n": 303,
@@ -3920,7 +4220,8 @@ window.PLAYLIST = {
    "dur": 141,
    "kb": 5655,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/303-Zhong_Guo_Ren_Min_Jie_Fang_Jun_Jin_Xing_Qu.mp3"
   },
   {
    "n": 304,
@@ -3933,7 +4234,8 @@ window.PLAYLIST = {
    "dur": 224,
    "kb": 8780,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/304-The_Truth_That_You_Leave.mp3"
   },
   {
    "n": 305,
@@ -3946,7 +4248,8 @@ window.PLAYLIST = {
    "dur": 226,
    "kb": 3619,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/305-STFD_Explicit.mp3"
   },
   {
    "n": 306,
@@ -3959,7 +4262,8 @@ window.PLAYLIST = {
    "dur": 182,
    "kb": 7208,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/306-Last_Of_Me_Arknights_Soundtrack.mp3"
   },
   {
    "n": 307,
@@ -3972,7 +4276,8 @@ window.PLAYLIST = {
    "dur": 195,
    "kb": 7699,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/307-You_Can_Cry.mp3"
   },
   {
    "n": 308,
@@ -3985,7 +4290,8 @@ window.PLAYLIST = {
    "dur": 228,
    "kb": 8952,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/308-Survive_with_Luma.mp3"
   },
   {
    "n": 309,
@@ -3998,7 +4304,8 @@ window.PLAYLIST = {
    "dur": 210,
    "kb": 8241,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/309-Stay.mp3"
   },
   {
    "n": 310,
@@ -4011,7 +4318,8 @@ window.PLAYLIST = {
    "dur": 182,
    "kb": 7162,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/310-You_Me.mp3"
   },
   {
    "n": 311,
@@ -4024,7 +4332,8 @@ window.PLAYLIST = {
    "dur": 182,
    "kb": 7217,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/311-Don_t_Say_feat_Nevve.mp3"
   },
   {
    "n": 312,
@@ -4037,7 +4346,8 @@ window.PLAYLIST = {
    "dur": 195,
    "kb": 7709,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/312-Chasing_Colors.mp3"
   },
   {
    "n": 313,
@@ -4050,7 +4360,8 @@ window.PLAYLIST = {
    "dur": 195,
    "kb": 7701,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/313-City.mp3"
   },
   {
    "n": 314,
@@ -4063,7 +4374,8 @@ window.PLAYLIST = {
    "dur": 143,
    "kb": 5679,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/314-If_We_Ever_Broke_Up_Explicit.mp3"
   },
   {
    "n": 315,
@@ -4076,7 +4388,8 @@ window.PLAYLIST = {
    "dur": 201,
    "kb": 7965,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/315-Shotgun.mp3"
   },
   {
    "n": 316,
@@ -4089,7 +4402,8 @@ window.PLAYLIST = {
    "dur": 215,
    "kb": 8534,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/316-Alibi.mp3"
   },
   {
    "n": 317,
@@ -4102,7 +4416,8 @@ window.PLAYLIST = {
    "dur": 160,
    "kb": 6358,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/317-All_Comes_Back_To_You.mp3"
   },
   {
    "n": 318,
@@ -4115,7 +4430,8 @@ window.PLAYLIST = {
    "dur": 177,
    "kb": 6938,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/318-Lean_On.mp3"
   },
   {
    "n": 319,
@@ -4128,7 +4444,8 @@ window.PLAYLIST = {
    "dur": 221,
    "kb": 3513,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/319-Flash_Funk_Marshmello_Remix.mp3"
   },
   {
    "n": 320,
@@ -4141,7 +4458,8 @@ window.PLAYLIST = {
    "dur": 190,
    "kb": 7485,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/320-North_Star_feat_Casey_Cook.mp3"
   },
   {
    "n": 321,
@@ -4154,7 +4472,8 @@ window.PLAYLIST = {
    "dur": 158,
    "kb": 6224,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/321-My_Addiction.mp3"
   },
   {
    "n": 322,
@@ -4167,7 +4486,8 @@ window.PLAYLIST = {
    "dur": 144,
    "kb": 5760,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/322-Murder_In_My_Mind_Explicit.mp3"
   },
   {
    "n": 323,
@@ -4180,7 +4500,8 @@ window.PLAYLIST = {
    "dur": 169,
    "kb": 6791,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/323-RAVE.mp3"
   },
   {
    "n": 324,
@@ -4193,7 +4514,8 @@ window.PLAYLIST = {
    "dur": 102,
    "kb": 4020,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/324-Scopin_Explicit.mp3"
   },
   {
    "n": 325,
@@ -4206,7 +4528,8 @@ window.PLAYLIST = {
    "dur": 138,
    "kb": 5440,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/325-Rise_Epic_Music_Shang_Sheng_Shi_Shi_Yin_Le.mp3"
   },
   {
    "n": 326,
@@ -4219,7 +4542,8 @@ window.PLAYLIST = {
    "dur": 141,
    "kb": 5627,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/326-ninelie_Easylistening.mp3"
   },
   {
    "n": 327,
@@ -4232,7 +4556,8 @@ window.PLAYLIST = {
    "dur": 203,
    "kb": 7979,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/327-The_World_Has_A_Heartbeat.mp3"
   },
   {
    "n": 328,
@@ -4245,7 +4570,8 @@ window.PLAYLIST = {
    "dur": 177,
    "kb": 6983,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/328-Save_You.mp3"
   },
   {
    "n": 329,
@@ -4258,7 +4584,8 @@ window.PLAYLIST = {
    "dur": 191,
    "kb": 7586,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/329-Shed_a_Light_Like_Instrumental_Mix.mp3"
   },
   {
    "n": 330,
@@ -4271,7 +4598,8 @@ window.PLAYLIST = {
    "dur": 145,
    "kb": 5717,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/330-Cupid_Twin_Ver_FIFTY_FIFTY_Sped_Up_Version.mp3"
   },
   {
    "n": 331,
@@ -4284,7 +4612,8 @@ window.PLAYLIST = {
    "dur": 220,
    "kb": 8639,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/331-Alibi_Far_Out_Remix.mp3"
   },
   {
    "n": 332,
@@ -4297,7 +4626,8 @@ window.PLAYLIST = {
    "dur": 179,
    "kb": 7049,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/332-Go_Again_feat_ELYSA.mp3"
   },
   {
    "n": 333,
@@ -4310,7 +4640,8 @@ window.PLAYLIST = {
    "dur": 166,
    "kb": 6516,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/333-Go_Again_feat_ELYSA_Nightcore_Edit_Nightcore_Edit.mp3"
   },
   {
    "n": 334,
@@ -4323,7 +4654,8 @@ window.PLAYLIST = {
    "dur": 165,
    "kb": 6514,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/334-Bones.mp3"
   },
   {
    "n": 335,
@@ -4336,7 +4668,8 @@ window.PLAYLIST = {
    "dur": 120,
    "kb": 1954,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/335-My_Happy_Song_Remix.mp3"
   },
   {
    "n": 336,
@@ -4349,7 +4682,8 @@ window.PLAYLIST = {
    "dur": 137,
    "kb": 5380,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/336-We_Do.mp3"
   },
   {
    "n": 337,
@@ -4362,7 +4696,8 @@ window.PLAYLIST = {
    "dur": 163,
    "kb": 6467,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/337-California_Vibes.mp3"
   },
   {
    "n": 338,
@@ -4375,7 +4710,8 @@ window.PLAYLIST = {
    "dur": 273,
    "kb": 10783,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/338-The_Best_Of_Me.mp3"
   },
   {
    "n": 339,
@@ -4388,7 +4724,8 @@ window.PLAYLIST = {
    "dur": 304,
    "kb": 11912,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/339-Energy_Drink.mp3"
   },
   {
    "n": 340,
@@ -4401,7 +4738,8 @@ window.PLAYLIST = {
    "dur": 127,
    "kb": 4983,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/340-Night_Crusing_Remix.mp3"
   },
   {
    "n": 341,
@@ -4414,7 +4752,8 @@ window.PLAYLIST = {
    "dur": 240,
    "kb": 9445,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/341-Funky_Town.mp3"
   },
   {
    "n": 342,
@@ -4427,7 +4766,8 @@ window.PLAYLIST = {
    "dur": 198,
    "kb": 7830,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/342-Wolves.mp3"
   },
   {
    "n": 343,
@@ -4440,7 +4780,8 @@ window.PLAYLIST = {
    "dur": 320,
    "kb": 12604,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/343-Victory.mp3"
   },
   {
    "n": 344,
@@ -4453,7 +4794,8 @@ window.PLAYLIST = {
    "dur": 164,
    "kb": 6481,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/344-Breathin.mp3"
   },
   {
    "n": 345,
@@ -4466,7 +4808,8 @@ window.PLAYLIST = {
    "dur": 99,
    "kb": 3990,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/345-Ninjago_Overture.mp3"
   },
   {
    "n": 346,
@@ -4479,7 +4822,8 @@ window.PLAYLIST = {
    "dur": 207,
    "kb": 8130,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/346-The_Weekend_Whip.mp3"
   },
   {
    "n": 347,
@@ -4492,7 +4836,8 @@ window.PLAYLIST = {
    "dur": 209,
    "kb": 8190,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/347-Maiochiruhanabira_Fallin_Flower.mp3"
   },
   {
    "n": 348,
@@ -4505,7 +4850,8 @@ window.PLAYLIST = {
    "dur": 204,
    "kb": 3218,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/348-Haggstrom.mp3"
   },
   {
    "n": 349,
@@ -4518,7 +4864,8 @@ window.PLAYLIST = {
    "dur": 135,
    "kb": 5315,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/349-Checklist_feat_Chromeo.mp3"
   },
   {
    "n": 350,
@@ -4531,7 +4878,8 @@ window.PLAYLIST = {
    "dur": 223,
    "kb": 8755,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/350-Solo_feat_Demi_Lovato.mp3"
   },
   {
    "n": 351,
@@ -4544,7 +4892,8 @@ window.PLAYLIST = {
    "dur": 189,
    "kb": 7431,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/351-Su_Reverse_feat_Ma_Yin_Yin.mp3"
   },
   {
    "n": 352,
@@ -4557,7 +4906,8 @@ window.PLAYLIST = {
    "dur": 71,
    "kb": 2774,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/352-Shuo_Ju_Shi_Hua_magnolia.mp3"
   },
   {
    "n": 353,
@@ -4570,7 +4920,8 @@ window.PLAYLIST = {
    "dur": 142,
    "kb": 5599,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/353-Sweet_Dreams_feat_Kaleena_Zanders.mp3"
   },
   {
    "n": 354,
@@ -4583,7 +4934,8 @@ window.PLAYLIST = {
    "dur": 167,
    "kb": 6561,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/354-All_For_Love.mp3"
   },
   {
    "n": 355,
@@ -4596,7 +4948,8 @@ window.PLAYLIST = {
    "dur": 248,
    "kb": 9828,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/355-Qun_Qing.mp3"
   },
   {
    "n": 356,
@@ -4609,7 +4962,8 @@ window.PLAYLIST = {
    "dur": 168,
    "kb": 6665,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/356-Soviet_March.mp3"
   },
   {
    "n": 357,
@@ -4622,7 +4976,8 @@ window.PLAYLIST = {
    "dur": 177,
    "kb": 2832,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/357-Lost_Story_Remix.mp3"
   },
   {
    "n": 358,
@@ -4635,7 +4990,8 @@ window.PLAYLIST = {
    "dur": 292,
    "kb": 11555,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/358-All_We_Know_Virtual_Riot_Remix.mp3"
   },
   {
    "n": 359,
@@ -4648,7 +5004,8 @@ window.PLAYLIST = {
    "dur": 213,
    "kb": 8389,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/359-Ferrari.mp3"
   },
   {
    "n": 360,
@@ -4661,7 +5018,8 @@ window.PLAYLIST = {
    "dur": 157,
    "kb": 6193,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/360-SOS.mp3"
   },
   {
    "n": 361,
@@ -4674,7 +5032,8 @@ window.PLAYLIST = {
    "dur": 260,
    "kb": 10220,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/361-Rush_Over_Me.mp3"
   },
   {
    "n": 362,
@@ -4687,7 +5046,8 @@ window.PLAYLIST = {
    "dur": 291,
    "kb": 11471,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/362-Leave_This_Place.mp3"
   },
   {
    "n": 363,
@@ -4700,7 +5060,8 @@ window.PLAYLIST = {
    "dur": 204,
    "kb": 8049,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/363-Broken_Glass.mp3"
   },
   {
    "n": 364,
@@ -4713,7 +5074,8 @@ window.PLAYLIST = {
    "dur": 217,
    "kb": 3433,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/364-Planez_Neon_Tribe_Remix.mp3"
   },
   {
    "n": 365,
@@ -4726,7 +5088,8 @@ window.PLAYLIST = {
    "dur": 188,
    "kb": 3006,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/365-Memories.mp3"
   },
   {
    "n": 366,
@@ -4739,7 +5102,8 @@ window.PLAYLIST = {
    "dur": 189,
    "kb": 7439,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/366-Want_U_More_Radio_Edit.mp3"
   },
   {
    "n": 367,
@@ -4752,7 +5116,8 @@ window.PLAYLIST = {
    "dur": 181,
    "kb": 2885,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/367-Intelligency_August_Remix.mp3"
   },
   {
    "n": 368,
@@ -4765,7 +5130,8 @@ window.PLAYLIST = {
    "dur": 274,
    "kb": 10774,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/368-Alone.mp3"
   },
   {
    "n": 369,
@@ -4778,7 +5144,8 @@ window.PLAYLIST = {
    "dur": 238,
    "kb": 9319,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/369-Infinity.mp3"
   },
   {
    "n": 370,
@@ -4791,7 +5158,8 @@ window.PLAYLIST = {
    "dur": 335,
    "kb": 13146,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/370-Superstar_Mars_Remix.mp3"
   },
   {
    "n": 371,
@@ -4804,7 +5172,8 @@ window.PLAYLIST = {
    "dur": 194,
    "kb": 7697,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/371-I_Can_t_Breath_Original_Mix.mp3"
   },
   {
    "n": 372,
@@ -4817,7 +5186,8 @@ window.PLAYLIST = {
    "dur": 202,
    "kb": 7939,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/372-Pixel_Peeker_Polka_faster.mp3"
   },
   {
    "n": 373,
@@ -4830,7 +5200,8 @@ window.PLAYLIST = {
    "dur": 149,
    "kb": 5943,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/373-Really_Mine.mp3"
   },
   {
    "n": 374,
@@ -4843,7 +5214,8 @@ window.PLAYLIST = {
    "dur": 223,
    "kb": 8789,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/374-Nothing_Stopping_Me_Radio_Edit.mp3"
   },
   {
    "n": 375,
@@ -4856,7 +5228,8 @@ window.PLAYLIST = {
    "dur": 200,
    "kb": 7857,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/375-Permanent_Explicit.mp3"
   },
   {
    "n": 376,
@@ -4869,7 +5242,8 @@ window.PLAYLIST = {
    "dur": 290,
    "kb": 11409,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/376-Inside.mp3"
   },
   {
    "n": 377,
@@ -4882,7 +5256,8 @@ window.PLAYLIST = {
    "dur": 180,
    "kb": 7145,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/377-Barcelona_Nights.mp3"
   },
   {
    "n": 378,
@@ -4895,7 +5270,8 @@ window.PLAYLIST = {
    "dur": 169,
    "kb": 6714,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/378-Memories.mp3"
   },
   {
    "n": 379,
@@ -4908,7 +5284,8 @@ window.PLAYLIST = {
    "dur": 233,
    "kb": 9170,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/379-Falling_Apart.mp3"
   },
   {
    "n": 380,
@@ -4921,7 +5298,8 @@ window.PLAYLIST = {
    "dur": 203,
    "kb": 8017,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/380-Tides.mp3"
   },
   {
    "n": 381,
@@ -4934,7 +5312,8 @@ window.PLAYLIST = {
    "dur": 247,
    "kb": 9725,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/381-Stray.mp3"
   },
   {
    "n": 382,
@@ -4947,7 +5326,8 @@ window.PLAYLIST = {
    "dur": 158,
    "kb": 6195,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/382-whoa_mind_in_awe.mp3"
   },
   {
    "n": 383,
@@ -4960,7 +5340,8 @@ window.PLAYLIST = {
    "dur": 144,
    "kb": 5661,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/383-Pink_Lemonade.mp3"
   },
   {
    "n": 384,
@@ -4973,7 +5354,8 @@ window.PLAYLIST = {
    "dur": 226,
    "kb": 8934,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/384-Alone.mp3"
   },
   {
    "n": 385,
@@ -4986,7 +5368,8 @@ window.PLAYLIST = {
    "dur": 274,
    "kb": 10784,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/385-Liang_Zi_Li_Xue_Zhi_Ge.mp3"
   },
   {
    "n": 386,
@@ -4999,7 +5382,8 @@ window.PLAYLIST = {
    "dur": 236,
    "kb": 9300,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/386-In_The_Shadow_Of_The_Sun.mp3"
   },
   {
    "n": 387,
@@ -5012,7 +5396,8 @@ window.PLAYLIST = {
    "dur": 208,
    "kb": 8234,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/387-Silhouette.mp3"
   },
   {
    "n": 388,
@@ -5025,7 +5410,8 @@ window.PLAYLIST = {
    "dur": 159,
    "kb": 6274,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/388-In_Love_With_Love.mp3"
   },
   {
    "n": 389,
@@ -5038,7 +5424,8 @@ window.PLAYLIST = {
    "dur": 205,
    "kb": 8102,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/389-You_Dian_Er_Yi_Si_That_Good_Good.mp3"
   },
   {
    "n": 390,
@@ -5051,7 +5438,8 @@ window.PLAYLIST = {
    "dur": 269,
    "kb": 10570,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/390-Chao_Ji_Guan_Jun.mp3"
   },
   {
    "n": 391,
@@ -5064,7 +5452,8 @@ window.PLAYLIST = {
    "dur": 156,
    "kb": 6154,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/391-Here_With_Me_feat_CHVRCHES.mp3"
   },
   {
    "n": 392,
@@ -5077,7 +5466,8 @@ window.PLAYLIST = {
    "dur": 235,
    "kb": 9255,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/392-Hold_On.mp3"
   },
   {
    "n": 393,
@@ -5090,7 +5480,8 @@ window.PLAYLIST = {
    "dur": 144,
    "kb": 5767,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/393-Asphalt_8_Airborne_Bleach.mp3"
   },
   {
    "n": 394,
@@ -5103,7 +5494,8 @@ window.PLAYLIST = {
    "dur": 267,
    "kb": 10541,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/394-Luv_Letter_Qing_Shu.mp3"
   },
   {
    "n": 395,
@@ -5116,7 +5508,8 @@ window.PLAYLIST = {
    "dur": 185,
    "kb": 2964,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/395-YOUTH.mp3"
   },
   {
    "n": 396,
@@ -5129,7 +5522,8 @@ window.PLAYLIST = {
    "dur": 183,
    "kb": 7255,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/396-So_Far_Away.mp3"
   },
   {
    "n": 397,
@@ -5142,7 +5536,8 @@ window.PLAYLIST = {
    "dur": 172,
    "kb": 6770,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/397-So_Far_Away_Acoustic.mp3"
   },
   {
    "n": 398,
@@ -5155,7 +5550,8 @@ window.PLAYLIST = {
    "dur": 180,
    "kb": 7088,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/398-Salt.mp3"
   },
   {
    "n": 399,
@@ -5168,7 +5564,8 @@ window.PLAYLIST = {
    "dur": 226,
    "kb": 8903,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/399-Hissin_A_Minecraft_Parody_of_Whistle.mp3"
   },
   {
    "n": 400,
@@ -5181,7 +5578,8 @@ window.PLAYLIST = {
    "dur": 142,
    "kb": 5639,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/400-See_Tinh_Speed_Up_Version.mp3"
   },
   {
    "n": 401,
@@ -5194,7 +5592,8 @@ window.PLAYLIST = {
    "dur": 272,
    "kb": 10721,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/401-Eclipse.mp3"
   },
   {
    "n": 402,
@@ -5207,7 +5606,8 @@ window.PLAYLIST = {
    "dur": 154,
    "kb": 6068,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/402-Chance.mp3"
   },
   {
    "n": 403,
@@ -5220,7 +5620,8 @@ window.PLAYLIST = {
    "dur": 201,
    "kb": 7975,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/403-Where_I_ll_Be_Waiting_VIP_Mix.mp3"
   },
   {
    "n": 404,
@@ -5233,7 +5634,8 @@ window.PLAYLIST = {
    "dur": 226,
    "kb": 8915,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/404-Make_Me_Move_James_Roche_Remix.mp3"
   },
   {
    "n": 405,
@@ -5246,7 +5648,8 @@ window.PLAYLIST = {
    "dur": 193,
    "kb": 7589,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/405-Hey_Mama_feat_Nicki_Minaj_Bebe_Rexha_Afrojack.mp3"
   },
   {
    "n": 406,
@@ -5259,7 +5662,8 @@ window.PLAYLIST = {
    "dur": 273,
    "kb": 10672,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/406-Fatal_love_0_6x.mp3"
   },
   {
    "n": 407,
@@ -5272,7 +5676,8 @@ window.PLAYLIST = {
    "dur": 191,
    "kb": 7508,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/407-Fatal_Love.mp3"
   },
   {
    "n": 408,
@@ -5285,7 +5690,8 @@ window.PLAYLIST = {
    "dur": 169,
    "kb": 6678,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/408-Let_Me_Down_Slowly.mp3"
   },
   {
    "n": 409,
@@ -5298,7 +5704,8 @@ window.PLAYLIST = {
    "dur": 227,
    "kb": 3665,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/409-Lose_Control_Explicit.mp3"
   },
   {
    "n": 410,
@@ -5311,7 +5718,8 @@ window.PLAYLIST = {
    "dur": 206,
    "kb": 8132,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/410-Waiting.mp3"
   },
   {
    "n": 411,
@@ -5324,7 +5732,8 @@ window.PLAYLIST = {
    "dur": 167,
    "kb": 6586,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/411-Catchfire_Sun_Sun_Sun_EDX_s_Miami_Sunset_Remix.mp3"
   },
   {
    "n": 412,
@@ -5337,7 +5746,8 @@ window.PLAYLIST = {
    "dur": 176,
    "kb": 6903,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/412-3_Strikes_Explicit.mp3"
   },
   {
    "n": 413,
@@ -5350,7 +5760,8 @@ window.PLAYLIST = {
    "dur": 167,
    "kb": 6573,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/413-Stay_The_Night.mp3"
   },
   {
    "n": 414,
@@ -5363,7 +5774,8 @@ window.PLAYLIST = {
    "dur": 173,
    "kb": 6821,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/414-Minecraft_s_End.mp3"
   },
   {
    "n": 415,
@@ -5376,7 +5788,8 @@ window.PLAYLIST = {
    "dur": 266,
    "kb": 4178,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/415-MINECRAFT_PARODY_OF_SOMETHING_JUST_LIKE_THIS_Wo_De_Shi_Jie_B.mp3"
   },
   {
    "n": 416,
@@ -5389,7 +5802,8 @@ window.PLAYLIST = {
    "dur": 186,
    "kb": 7362,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/416-We_Don_t_Belong.mp3"
   },
   {
    "n": 417,
@@ -5402,7 +5816,8 @@ window.PLAYLIST = {
    "dur": 195,
    "kb": 7684,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/417-Sparks.mp3"
   },
   {
    "n": 418,
@@ -5415,7 +5830,8 @@ window.PLAYLIST = {
    "dur": 199,
    "kb": 7840,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/418-Summertime_Sadness_Behmer_Bootleg.mp3"
   },
   {
    "n": 419,
@@ -5428,7 +5844,8 @@ window.PLAYLIST = {
    "dur": 190,
    "kb": 7520,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/419-Tonight_We_Dance.mp3"
   },
   {
    "n": 420,
@@ -5441,7 +5858,8 @@ window.PLAYLIST = {
    "dur": 219,
    "kb": 8608,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/420-Don_t_Let_Me_Down_Illenium_Remix.mp3"
   },
   {
    "n": 421,
@@ -5454,7 +5872,8 @@ window.PLAYLIST = {
    "dur": 253,
    "kb": 9964,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/421-Sound_of_Walking_Away.mp3"
   },
   {
    "n": 422,
@@ -5467,7 +5886,8 @@ window.PLAYLIST = {
    "dur": 210,
    "kb": 8262,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/422-Takeaway.mp3"
   },
   {
    "n": 423,
@@ -5480,7 +5900,8 @@ window.PLAYLIST = {
    "dur": 169,
    "kb": 6669,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/423-Numb_Little_Bug.mp3"
   },
   {
    "n": 424,
@@ -5493,7 +5914,8 @@ window.PLAYLIST = {
    "dur": 188,
    "kb": 7403,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/424-Crazy.mp3"
   },
   {
    "n": 425,
@@ -5506,7 +5928,8 @@ window.PLAYLIST = {
    "dur": 253,
    "kb": 9945,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/425-Revive.mp3"
   },
   {
    "n": 426,
@@ -5519,7 +5942,8 @@ window.PLAYLIST = {
    "dur": 57,
    "kb": 2244,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/426-She_Said_You_re_Amazing.mp3"
   },
   {
    "n": 427,
@@ -5532,7 +5956,8 @@ window.PLAYLIST = {
    "dur": 125,
    "kb": 5016,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/427-nonbirishitaChang_Suo_You_Xian_De_Chang_Suo.mp3"
   },
   {
    "n": 428,
@@ -5545,7 +5970,8 @@ window.PLAYLIST = {
    "dur": 201,
    "kb": 7913,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/428-The_Entertainer.mp3"
   },
   {
    "n": 429,
@@ -5558,7 +5984,8 @@ window.PLAYLIST = {
    "dur": 207,
    "kb": 8181,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/429-Circles.mp3"
   },
   {
    "n": 430,
@@ -5571,7 +5998,8 @@ window.PLAYLIST = {
    "dur": 187,
    "kb": 7402,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/430-My_Songs_Know_What_You_Did_In_The_Dark_Light_Em_Up.mp3"
   },
   {
    "n": 431,
@@ -5584,7 +6012,8 @@ window.PLAYLIST = {
    "dur": 195,
    "kb": 7713,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/431-Freeze_Time_Radio_Edit.mp3"
   },
   {
    "n": 432,
@@ -5597,7 +6026,8 @@ window.PLAYLIST = {
    "dur": 195,
    "kb": 7679,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/432-Don_t_You_Run.mp3"
   },
   {
    "n": 433,
@@ -5610,7 +6040,8 @@ window.PLAYLIST = {
    "dur": 214,
    "kb": 8435,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/433-Blame.mp3"
   },
   {
    "n": 434,
@@ -5623,7 +6054,8 @@ window.PLAYLIST = {
    "dur": 245,
    "kb": 3916,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/434-Fractures.mp3"
   },
   {
    "n": 435,
@@ -5636,7 +6068,8 @@ window.PLAYLIST = {
    "dur": 136,
    "kb": 5346,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/435-rather_do_my_MATH_Explicit.mp3"
   },
   {
    "n": 436,
@@ -5649,7 +6082,8 @@ window.PLAYLIST = {
    "dur": 128,
    "kb": 5019,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/436-Intro.mp3"
   },
   {
    "n": 437,
@@ -5662,7 +6096,8 @@ window.PLAYLIST = {
    "dur": 202,
    "kb": 7964,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/437-Without_Me_Explicit.mp3"
   },
   {
    "n": 438,
@@ -5675,7 +6110,8 @@ window.PLAYLIST = {
    "dur": 172,
    "kb": 6830,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/438-Axel_F.mp3"
   },
   {
    "n": 439,
@@ -5688,7 +6124,8 @@ window.PLAYLIST = {
    "dur": 217,
    "kb": 3406,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/439-We_Don_t_Talk_Anymore.mp3"
   },
   {
    "n": 440,
@@ -5701,7 +6138,8 @@ window.PLAYLIST = {
    "dur": 218,
    "kb": 8567,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/440-We_Don_t_Talk_Anymore.mp3"
   },
   {
    "n": 441,
@@ -5714,7 +6152,8 @@ window.PLAYLIST = {
    "dur": 157,
    "kb": 6210,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/441-Safe_Place.mp3"
   },
   {
    "n": 442,
@@ -5727,7 +6166,8 @@ window.PLAYLIST = {
    "dur": 226,
    "kb": 8898,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/442-Dust_From_My_Eyes.mp3"
   },
   {
    "n": 443,
@@ -5740,7 +6180,8 @@ window.PLAYLIST = {
    "dur": 205,
    "kb": 8050,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/443-Inside_the_Lines.mp3"
   },
   {
    "n": 444,
@@ -5753,7 +6194,8 @@ window.PLAYLIST = {
    "dur": 219,
    "kb": 8623,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/444-Safe_Sound.mp3"
   },
   {
    "n": 445,
@@ -5766,7 +6208,8 @@ window.PLAYLIST = {
    "dur": 148,
    "kb": 5835,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/445-Nevada_Vicetone_Lofi_Mix.mp3"
   },
   {
    "n": 446,
@@ -5779,7 +6222,8 @@ window.PLAYLIST = {
    "dur": 214,
    "kb": 8565,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/446-Blue_Sky.mp3"
   },
   {
    "n": 447,
@@ -5792,7 +6236,8 @@ window.PLAYLIST = {
    "dur": 201,
    "kb": 3192,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/447-primary.mp3"
   },
   {
    "n": 448,
@@ -5805,7 +6250,8 @@ window.PLAYLIST = {
    "dur": 200,
    "kb": 7822,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/448-Normal_No_More_Explicit.mp3"
   },
   {
    "n": 449,
@@ -5818,7 +6264,8 @@ window.PLAYLIST = {
    "dur": 315,
    "kb": 12345,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/449-Time_to_Pretend.mp3"
   },
   {
    "n": 450,
@@ -5831,7 +6278,8 @@ window.PLAYLIST = {
    "dur": 219,
    "kb": 8599,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/450-Don_t_Let_Me_Down_Illenium_Remix.mp3"
   },
   {
    "n": 451,
@@ -5844,7 +6292,8 @@ window.PLAYLIST = {
    "dur": 276,
    "kb": 10820,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/451-Catch_My_Breath_Remix.mp3"
   },
   {
    "n": 452,
@@ -5857,7 +6306,8 @@ window.PLAYLIST = {
    "dur": 222,
    "kb": 8738,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/452-This_Is_What_You_Came_For.mp3"
   },
   {
    "n": 453,
@@ -5870,7 +6320,8 @@ window.PLAYLIST = {
    "dur": 295,
    "kb": 11632,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/453-Temple.mp3"
   },
   {
    "n": 454,
@@ -5883,7 +6334,8 @@ window.PLAYLIST = {
    "dur": 235,
    "kb": 3706,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/454-Temple.mp3"
   },
   {
    "n": 455,
@@ -5896,7 +6348,8 @@ window.PLAYLIST = {
    "dur": 216,
    "kb": 8492,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/455-Lake_Arrowhead_Radio_Mix.mp3"
   },
   {
    "n": 456,
@@ -5909,7 +6362,8 @@ window.PLAYLIST = {
    "dur": 255,
    "kb": 4204,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/456-Wake_Studio.mp3"
   },
   {
    "n": 457,
@@ -5922,7 +6376,8 @@ window.PLAYLIST = {
    "dur": 209,
    "kb": 8316,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/457-No_Rest.mp3"
   },
   {
    "n": 458,
@@ -5935,7 +6390,8 @@ window.PLAYLIST = {
    "dur": 205,
    "kb": 8075,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/458-Dark_Side.mp3"
   },
   {
    "n": 459,
@@ -5948,7 +6404,8 @@ window.PLAYLIST = {
    "dur": 199,
    "kb": 7845,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/459-What_Makes_You_Beautiful.mp3"
   },
   {
    "n": 460,
@@ -5961,7 +6418,8 @@ window.PLAYLIST = {
    "dur": 205,
    "kb": 8051,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/460-I_Really_Like_You.mp3"
   },
   {
    "n": 461,
@@ -5974,7 +6432,8 @@ window.PLAYLIST = {
    "dur": 206,
    "kb": 8125,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/461-Good_Time.mp3"
   },
   {
    "n": 462,
@@ -5987,7 +6446,8 @@ window.PLAYLIST = {
    "dur": 236,
    "kb": 9261,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/462-Read_All_About_It_Original_Mix.mp3"
   },
   {
    "n": 463,
@@ -6000,7 +6460,8 @@ window.PLAYLIST = {
    "dur": 319,
    "kb": 12605,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/463-Trance_Music_for_Racing_Game.mp3"
   },
   {
    "n": 464,
@@ -6013,7 +6474,8 @@ window.PLAYLIST = {
    "dur": 284,
    "kb": 4504,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/464-China_X_Yuan_Xiao_Xi_Bootleg.mp3"
   },
   {
    "n": 465,
@@ -6026,7 +6488,8 @@ window.PLAYLIST = {
    "dur": 265,
    "kb": 10457,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/465-Hong_Shi_Yin_Le_Hua_Zhi_Wu_Flower_Dance_Gang_Qin_Ban_Remix.mp3"
   },
   {
    "n": 466,
@@ -6039,7 +6502,8 @@ window.PLAYLIST = {
    "dur": 270,
    "kb": 4278,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/466-Gravity.mp3"
   },
   {
    "n": 467,
@@ -6052,7 +6516,8 @@ window.PLAYLIST = {
    "dur": 177,
    "kb": 7059,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/467-Tremble_Radio_Edit.mp3"
   },
   {
    "n": 468,
@@ -6065,7 +6530,8 @@ window.PLAYLIST = {
    "dur": 249,
    "kb": 9802,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/468-Come_Back_Down_Original_Mix.mp3"
   },
   {
    "n": 469,
@@ -6078,7 +6544,8 @@ window.PLAYLIST = {
    "dur": 227,
    "kb": 8950,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/469-Summersong_2018.mp3"
   },
   {
    "n": 470,
@@ -6091,7 +6558,8 @@ window.PLAYLIST = {
    "dur": 191,
    "kb": 7532,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/470-Smile.mp3"
   },
   {
    "n": 471,
@@ -6104,7 +6572,8 @@ window.PLAYLIST = {
    "dur": 252,
    "kb": 9930,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/471-Ke_Ai_kunaritai_feat_Suo_Na_Xiang_Bian_De_Ke_Ai.mp3"
   },
   {
    "n": 472,
@@ -6117,7 +6586,8 @@ window.PLAYLIST = {
    "dur": 270,
    "kb": 10601,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/472-Xin_Zuo_shi_Wu_Xin.mp3"
   },
   {
    "n": 473,
@@ -6130,7 +6600,8 @@ window.PLAYLIST = {
    "dur": 180,
    "kb": 2813,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/473-gutsubaiXuan_Yan_Zai_Jian_Xuan_Yan_Single_Version.mp3"
   },
   {
    "n": 474,
@@ -6143,7 +6614,8 @@ window.PLAYLIST = {
    "dur": 194,
    "kb": 7614,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/474-Summer_Vibe.mp3"
   },
   {
    "n": 475,
@@ -6156,7 +6628,8 @@ window.PLAYLIST = {
    "dur": 51,
    "kb": 1995,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/475-sans.mp3"
   },
   {
    "n": 476,
@@ -6169,7 +6642,8 @@ window.PLAYLIST = {
    "dur": 228,
    "kb": 8956,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/476-Rather_Be.mp3"
   },
   {
    "n": 477,
@@ -6182,7 +6656,8 @@ window.PLAYLIST = {
    "dur": 197,
    "kb": 7814,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/477-Animal.mp3"
   },
   {
    "n": 478,
@@ -6195,7 +6670,8 @@ window.PLAYLIST = {
    "dur": 236,
    "kb": 9310,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/478-Sky_Radio_Edit.mp3"
   },
   {
    "n": 479,
@@ -6208,7 +6684,8 @@ window.PLAYLIST = {
    "dur": 221,
    "kb": 8798,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/479-Neon_Sky_Mokita_Remix.mp3"
   },
   {
    "n": 480,
@@ -6221,7 +6698,8 @@ window.PLAYLIST = {
    "dur": 207,
    "kb": 8195,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/480-Fool_For_You.mp3"
   },
   {
    "n": 481,
@@ -6234,7 +6712,8 @@ window.PLAYLIST = {
    "dur": 171,
    "kb": 6720,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/481-ITS_OKAY_NOW_Explicit.mp3"
   },
   {
    "n": 482,
@@ -6247,7 +6726,8 @@ window.PLAYLIST = {
    "dur": 179,
    "kb": 7090,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/482-Falling_For_You.mp3"
   },
   {
    "n": 483,
@@ -6260,7 +6740,8 @@ window.PLAYLIST = {
    "dur": 140,
    "kb": 5545,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/483-Numb.mp3"
   },
   {
    "n": 484,
@@ -6273,7 +6754,8 @@ window.PLAYLIST = {
    "dur": 185,
    "kb": 7351,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/484-Middle_Of_The_Night_Original_Mix.mp3"
   },
   {
    "n": 485,
@@ -6286,7 +6768,8 @@ window.PLAYLIST = {
    "dur": 174,
    "kb": 6857,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/485-Black_Magic.mp3"
   },
   {
    "n": 486,
@@ -6299,7 +6782,8 @@ window.PLAYLIST = {
    "dur": 170,
    "kb": 6714,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/486-Water_Original_Mix.mp3"
   },
   {
    "n": 487,
@@ -6312,7 +6796,8 @@ window.PLAYLIST = {
    "dur": 220,
    "kb": 8612,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/487-It_Ain_t_Me.mp3"
   },
   {
    "n": 488,
@@ -6325,7 +6810,8 @@ window.PLAYLIST = {
    "dur": 234,
    "kb": 9254,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/488-Umbrella.mp3"
   },
   {
    "n": 489,
@@ -6338,7 +6824,8 @@ window.PLAYLIST = {
    "dur": 157,
    "kb": 6216,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/489-There_For_You.mp3"
   },
   {
    "n": 490,
@@ -6351,7 +6838,8 @@ window.PLAYLIST = {
    "dur": 372,
    "kb": 14597,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/490-Star_Unkind_Lanfranchi_Farina_Remix.mp3"
   },
   {
    "n": 491,
@@ -6364,7 +6852,8 @@ window.PLAYLIST = {
    "dur": 158,
    "kb": 6225,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/491-This_Far_RudeLies_Remix.mp3"
   },
   {
    "n": 492,
@@ -6377,7 +6866,8 @@ window.PLAYLIST = {
    "dur": 207,
    "kb": 8141,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/492-Falling_Down_feat_James_Delaney.mp3"
   },
   {
    "n": 493,
@@ -6390,7 +6880,8 @@ window.PLAYLIST = {
    "dur": 209,
    "kb": 8228,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/493-intoaXi_naratoratsukumeika_Nei_Xiang_Du_Shi_Zuo_Qu_Jia_Fdby.mp3"
   },
   {
    "n": 494,
@@ -6403,7 +6894,8 @@ window.PLAYLIST = {
    "dur": 201,
    "kb": 7926,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/494-Panama.mp3"
   },
   {
    "n": 495,
@@ -6416,7 +6908,8 @@ window.PLAYLIST = {
    "dur": 214,
    "kb": 8433,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/495-Way_Back_Home.mp3"
   },
   {
    "n": 496,
@@ -6429,7 +6922,8 @@ window.PLAYLIST = {
    "dur": 194,
    "kb": 7755,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/496-All_We_Know.mp3"
   },
   {
    "n": 497,
@@ -6442,7 +6936,8 @@ window.PLAYLIST = {
    "dur": 162,
    "kb": 6380,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/497-Into_You.mp3"
   },
   {
    "n": 498,
@@ -6455,7 +6950,8 @@ window.PLAYLIST = {
    "dur": 212,
    "kb": 8372,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/498-jinagal_teni_Shun_Qi_Zi_Ran_Been_Through.mp3"
   },
   {
    "n": 499,
@@ -6468,7 +6964,8 @@ window.PLAYLIST = {
    "dur": 222,
    "kb": 8734,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/499-Infinity.mp3"
   },
   {
    "n": 500,
@@ -6481,7 +6978,8 @@ window.PLAYLIST = {
    "dur": 228,
    "kb": 8929,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/500-Melody_Original_Mix.mp3"
   },
   {
    "n": 501,
@@ -6494,7 +6992,8 @@ window.PLAYLIST = {
    "dur": 203,
    "kb": 3221,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/501-Slow_Down.mp3"
   },
   {
    "n": 502,
@@ -6507,7 +7006,8 @@ window.PLAYLIST = {
    "dur": 261,
    "kb": 10250,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/502-Deja_Vu.mp3"
   },
   {
    "n": 503,
@@ -6520,7 +7020,8 @@ window.PLAYLIST = {
    "dur": 202,
    "kb": 3239,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/503-Meng_Qian_Chen.mp3"
   },
   {
    "n": 504,
@@ -6533,7 +7034,8 @@ window.PLAYLIST = {
    "dur": 208,
    "kb": 3306,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/504-He_Ni_Zai_Yi_Qi.mp3"
   },
   {
    "n": 505,
@@ -6546,7 +7048,8 @@ window.PLAYLIST = {
    "dur": 255,
    "kb": 4055,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/505-Shi_Guang_Yi_Bei.mp3"
   },
   {
    "n": 506,
@@ -6559,7 +7062,8 @@ window.PLAYLIST = {
    "dur": 154,
    "kb": 6027,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/506-Pastlives.mp3"
   },
   {
    "n": 507,
@@ -6572,7 +7076,8 @@ window.PLAYLIST = {
    "dur": 112,
    "kb": 4405,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/507-Plain_Jane_DJBan.mp3"
   },
   {
    "n": 508,
@@ -6585,7 +7090,8 @@ window.PLAYLIST = {
    "dur": 148,
    "kb": 5815,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/508-Kissing_Other_People_R3HAB_Remix.mp3"
   },
   {
    "n": 509,
@@ -6598,7 +7104,8 @@ window.PLAYLIST = {
    "dur": 194,
    "kb": 3101,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/509-Pretty_Girl_Cheat_Codes_X_CADE_Remix.mp3"
   },
   {
    "n": 510,
@@ -6611,7 +7118,8 @@ window.PLAYLIST = {
    "dur": 260,
    "kb": 10222,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/510-Take_Me_Hand.mp3"
   },
   {
    "n": 511,
@@ -6624,7 +7132,8 @@ window.PLAYLIST = {
    "dur": 235,
    "kb": 3680,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/511-Wu_Chi_Zhi_Shi.mp3"
   },
   {
    "n": 512,
@@ -6637,7 +7146,8 @@ window.PLAYLIST = {
    "dur": 185,
    "kb": 7320,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/512-death_bed.mp3"
   },
   {
    "n": 513,
@@ -6650,7 +7160,8 @@ window.PLAYLIST = {
    "dur": 195,
    "kb": 23752,
    "q": "FLAC",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/513-Forgettable.flac"
   },
   {
    "n": 514,
@@ -6663,7 +7174,8 @@ window.PLAYLIST = {
    "dur": 210,
    "kb": 8299,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/514-Sofia.mp3"
   },
   {
    "n": 515,
@@ -6676,7 +7188,8 @@ window.PLAYLIST = {
    "dur": 157,
    "kb": 6190,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/515-Hey_Mama_Remix.mp3"
   },
   {
    "n": 516,
@@ -6689,7 +7202,8 @@ window.PLAYLIST = {
    "dur": 236,
    "kb": 9301,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/516-The_Show.mp3"
   },
   {
    "n": 518,
@@ -6702,7 +7216,8 @@ window.PLAYLIST = {
    "dur": 197,
    "kb": 7744,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/518-Chun_woGao_geru_Xuan_Gao_Chun_Tian.mp3"
   },
   {
    "n": 519,
@@ -6715,7 +7230,8 @@ window.PLAYLIST = {
    "dur": 199,
    "kb": 7850,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/519-Feel_the_Fire_Egzod_Remix.mp3"
   },
   {
    "n": 520,
@@ -6728,7 +7244,8 @@ window.PLAYLIST = {
    "dur": 221,
    "kb": 8701,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/520-Gou_Huo_Pang.mp3"
   },
   {
    "n": 521,
@@ -6741,7 +7258,8 @@ window.PLAYLIST = {
    "dur": 234,
    "kb": 9191,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/521-High_feat_Rachel_Lim.mp3"
   },
   {
    "n": 522,
@@ -6754,7 +7272,8 @@ window.PLAYLIST = {
    "dur": 212,
    "kb": 8356,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/522-Darkside.mp3"
   },
   {
    "n": 523,
@@ -6767,7 +7286,8 @@ window.PLAYLIST = {
    "dur": 160,
    "kb": 6280,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/523-Tokyo_Lo_Fi_version.mp3"
   },
   {
    "n": 524,
@@ -6780,7 +7300,8 @@ window.PLAYLIST = {
    "dur": 229,
    "kb": 9003,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/524-Tokyo_Remix.mp3"
   },
   {
    "n": 525,
@@ -6793,7 +7314,8 @@ window.PLAYLIST = {
    "dur": 326,
    "kb": 12857,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/525-My_Sunset_Original_Mix.mp3"
   },
   {
    "n": 526,
@@ -6806,7 +7328,8 @@ window.PLAYLIST = {
    "dur": 136,
    "kb": 5406,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/526-STAY_Explicit.mp3"
   },
   {
    "n": 527,
@@ -6819,7 +7342,8 @@ window.PLAYLIST = {
    "dur": 172,
    "kb": 6790,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/527-Chroma.mp3"
   },
   {
    "n": 528,
@@ -6832,7 +7356,8 @@ window.PLAYLIST = {
    "dur": 205,
    "kb": 3266,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/528-Teeth.mp3"
   },
   {
    "n": 529,
@@ -6845,7 +7370,8 @@ window.PLAYLIST = {
    "dur": 189,
    "kb": 2998,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/529-Here_Remix.mp3"
   },
   {
    "n": 531,
@@ -6858,7 +7384,8 @@ window.PLAYLIST = {
    "dur": 190,
    "kb": 7456,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/531-Lone_Ranger.mp3"
   },
   {
    "n": 532,
@@ -6871,7 +7398,8 @@ window.PLAYLIST = {
    "dur": 97,
    "kb": 3857,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/532-Sugar_Crash_Remix.mp3"
   },
   {
    "n": 533,
@@ -6884,7 +7412,8 @@ window.PLAYLIST = {
    "dur": 207,
    "kb": 8144,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/533-Stitches.mp3"
   },
   {
    "n": 534,
@@ -6897,7 +7426,8 @@ window.PLAYLIST = {
    "dur": 228,
    "kb": 8964,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/534-Fire.mp3"
   },
   {
    "n": 535,
@@ -6910,7 +7440,8 @@ window.PLAYLIST = {
    "dur": 208,
    "kb": 8166,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/535-buttercup.mp3"
   },
   {
    "n": 536,
@@ -6923,7 +7454,8 @@ window.PLAYLIST = {
    "dur": 191,
    "kb": 3070,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/536-Not_the_One.mp3"
   },
   {
    "n": 537,
@@ -6936,7 +7468,8 @@ window.PLAYLIST = {
    "dur": 229,
    "kb": 3651,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/537-She_remix_VickyXuan_Xuan_Remix.mp3"
   },
   {
    "n": 538,
@@ -6949,7 +7482,8 @@ window.PLAYLIST = {
    "dur": 304,
    "kb": 11935,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/538-Ye_Hang_Xing_Night_Voyager.mp3"
   },
   {
    "n": 539,
@@ -6962,7 +7496,8 @@ window.PLAYLIST = {
    "dur": 236,
    "kb": 9265,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/539-Sky_High.mp3"
   },
   {
    "n": 540,
@@ -6975,7 +7510,8 @@ window.PLAYLIST = {
    "dur": 252,
    "kb": 9897,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/540-We_Can_Be_Together.mp3"
   },
   {
    "n": 541,
@@ -6988,7 +7524,8 @@ window.PLAYLIST = {
    "dur": 122,
    "kb": 4826,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/541-Future_Funk.mp3"
   },
   {
    "n": 542,
@@ -7001,7 +7538,8 @@ window.PLAYLIST = {
    "dur": 326,
    "kb": 12804,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/542-My_Sunset_Original_Mix.mp3"
   },
   {
    "n": 543,
@@ -7014,7 +7552,8 @@ window.PLAYLIST = {
    "dur": 216,
    "kb": 8555,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/543-Power_In_Your_Soul.mp3"
   },
   {
    "n": 544,
@@ -7027,7 +7566,8 @@ window.PLAYLIST = {
    "dur": 199,
    "kb": 7845,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/544-Visions.mp3"
   },
   {
    "n": 545,
@@ -7040,7 +7580,8 @@ window.PLAYLIST = {
    "dur": 255,
    "kb": 10010,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/545-I_Want_You_To_Know_Hella_x_Pegato_Remix.mp3"
   },
   {
    "n": 546,
@@ -7053,7 +7594,8 @@ window.PLAYLIST = {
    "dur": 175,
    "kb": 6947,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/546-Clear_Shawn_Wasabi_Remix.mp3"
   },
   {
    "n": 547,
@@ -7066,7 +7608,8 @@ window.PLAYLIST = {
    "dur": 217,
    "kb": 8551,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/547-Apologize.mp3"
   },
   {
    "n": 548,
@@ -7079,7 +7622,8 @@ window.PLAYLIST = {
    "dur": 208,
    "kb": 8196,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/548-Komorebi_Xie_Xi_Jian_Sa_Luo_De_Yang_Guang.mp3"
   },
   {
    "n": 549,
@@ -7092,7 +7636,8 @@ window.PLAYLIST = {
    "dur": 206,
    "kb": 8117,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/549-Once_upon_a_Time.mp3"
   },
   {
    "n": 550,
@@ -7105,7 +7650,8 @@ window.PLAYLIST = {
    "dur": 153,
    "kb": 6030,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/550-Wo_De_Shi_Jie.mp3"
   },
   {
    "n": 551,
@@ -7118,7 +7664,8 @@ window.PLAYLIST = {
    "dur": 254,
    "kb": 4000,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/551-Minecraft.mp3"
   },
   {
    "n": 552,
@@ -7131,7 +7678,8 @@ window.PLAYLIST = {
    "dur": 168,
    "kb": 6614,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/552-Play.mp3"
   },
   {
    "n": 553,
@@ -7144,7 +7692,8 @@ window.PLAYLIST = {
    "dur": 251,
    "kb": 9894,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/553-Criminals.mp3"
   },
   {
    "n": 554,
@@ -7157,7 +7706,8 @@ window.PLAYLIST = {
    "dur": 209,
    "kb": 8216,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/554-Million_Days.mp3"
   },
   {
    "n": 555,
@@ -7170,7 +7720,8 @@ window.PLAYLIST = {
    "dur": 204,
    "kb": 8035,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/555-Believer.mp3"
   },
   {
    "n": 556,
@@ -7183,7 +7734,8 @@ window.PLAYLIST = {
    "dur": 176,
    "kb": 6885,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/556-Telescope.mp3"
   },
   {
    "n": 557,
@@ -7196,7 +7748,8 @@ window.PLAYLIST = {
    "dur": 177,
    "kb": 7007,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/557-Hands_in_the_Fire_Explicit.mp3"
   },
   {
    "n": 558,
@@ -7209,7 +7762,8 @@ window.PLAYLIST = {
    "dur": 300,
    "kb": 11815,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/558-Reverie.mp3"
   },
   {
    "n": 559,
@@ -7222,7 +7776,8 @@ window.PLAYLIST = {
    "dur": 248,
    "kb": 9842,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/559-Seasons.mp3"
   },
   {
    "n": 561,
@@ -7235,7 +7790,8 @@ window.PLAYLIST = {
    "dur": 251,
    "kb": 9829,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/561-Illusionary_Daytime.mp3"
   },
   {
    "n": 562,
@@ -7248,7 +7804,8 @@ window.PLAYLIST = {
    "dur": 270,
    "kb": 10642,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/562-Tassel_Liu_Su.mp3"
   },
   {
    "n": 563,
@@ -7261,7 +7818,8 @@ window.PLAYLIST = {
    "dur": 184,
    "kb": 7271,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/563-Sakura_Tears.mp3"
   },
   {
    "n": 564,
@@ -7274,7 +7832,8 @@ window.PLAYLIST = {
    "dur": 151,
    "kb": 5981,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/564-Hoaprox_Ngau_Hung_Remix.mp3"
   },
   {
    "n": 565,
@@ -7287,7 +7846,8 @@ window.PLAYLIST = {
    "dur": 204,
    "kb": 8035,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/565-Life.mp3"
   },
   {
    "n": 566,
@@ -7300,7 +7860,8 @@ window.PLAYLIST = {
    "dur": 175,
    "kb": 6906,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/566-Creep.mp3"
   },
   {
    "n": 567,
@@ -7313,7 +7874,8 @@ window.PLAYLIST = {
    "dur": 226,
    "kb": 8869,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/567-Ephemeral_Memories_Without_Drum.mp3"
   },
   {
    "n": 568,
@@ -7326,7 +7888,8 @@ window.PLAYLIST = {
    "dur": 224,
    "kb": 8800,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/568-Lu_be_free.mp3"
   },
   {
    "n": 569,
@@ -7339,7 +7902,8 @@ window.PLAYLIST = {
    "dur": 245,
    "kb": 9646,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/569-Right_Now.mp3"
   },
   {
    "n": 570,
@@ -7352,7 +7916,8 @@ window.PLAYLIST = {
    "dur": 241,
    "kb": 3834,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/570-Right_Now_Na_Na_Na.mp3"
   },
   {
    "n": 571,
@@ -7365,7 +7930,8 @@ window.PLAYLIST = {
    "dur": 245,
    "kb": 9689,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/571-Limitless.mp3"
   },
   {
    "n": 572,
@@ -7378,7 +7944,8 @@ window.PLAYLIST = {
    "dur": 157,
    "kb": 6210,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/572-FREE_lucky.mp3"
   },
   {
    "n": 573,
@@ -7391,7 +7958,8 @@ window.PLAYLIST = {
    "dur": 219,
    "kb": 8608,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/573-Lovely_Xin_Remix.mp3"
   },
   {
    "n": 574,
@@ -7404,7 +7972,8 @@ window.PLAYLIST = {
    "dur": 222,
    "kb": 8695,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/574-Zhi_Wo_De_Shi_Jie.mp3"
   },
   {
    "n": 575,
@@ -7417,7 +7986,8 @@ window.PLAYLIST = {
    "dur": 202,
    "kb": 7970,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/575-Ring_Ring_Ring.mp3"
   },
   {
    "n": 576,
@@ -7430,7 +8000,8 @@ window.PLAYLIST = {
    "dur": 188,
    "kb": 7369,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/576-End_of_Time.mp3"
   },
   {
    "n": 577,
@@ -7443,7 +8014,8 @@ window.PLAYLIST = {
    "dur": 217,
    "kb": 8560,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/577-Wicked_Wonderland.mp3"
   },
   {
    "n": 578,
@@ -7456,7 +8028,8 @@ window.PLAYLIST = {
    "dur": 206,
    "kb": 8116,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/578-Touch.mp3"
   },
   {
    "n": 579,
@@ -7469,7 +8042,8 @@ window.PLAYLIST = {
    "dur": 191,
    "kb": 7495,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/579-Senorita.mp3"
   },
   {
    "n": 580,
@@ -7482,7 +8056,8 @@ window.PLAYLIST = {
    "dur": 147,
    "kb": 5771,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/580-Apologize.mp3"
   },
   {
    "n": 581,
@@ -7495,7 +8070,8 @@ window.PLAYLIST = {
    "dur": 210,
    "kb": 8243,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/581-Sun.mp3"
   },
   {
    "n": 582,
@@ -7508,7 +8084,8 @@ window.PLAYLIST = {
    "dur": 251,
    "kb": 9864,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/582-Angels_Extended_Mix.mp3"
   },
   {
    "n": 583,
@@ -7521,7 +8098,8 @@ window.PLAYLIST = {
    "dur": 214,
    "kb": 8450,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/583-Angels_Radio_Edit.mp3"
   },
   {
    "n": 584,
@@ -7534,7 +8112,8 @@ window.PLAYLIST = {
    "dur": 263,
    "kb": 10304,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/584-My_Heart_Will_Go_On.mp3"
   },
   {
    "n": 585,
@@ -7547,7 +8126,8 @@ window.PLAYLIST = {
    "dur": 189,
    "kb": 7438,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/585-Sunburst.mp3"
   },
   {
    "n": 587,
@@ -7560,7 +8140,8 @@ window.PLAYLIST = {
    "dur": 70,
    "kb": 2809,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/587-Sugar_Crash_Explicit.mp3"
   },
   {
    "n": 588,
@@ -7573,7 +8154,8 @@ window.PLAYLIST = {
    "dur": 271,
    "kb": 4281,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/588-She_Sexy_Dendix_Remix.mp3"
   },
   {
    "n": 589,
@@ -7586,7 +8168,8 @@ window.PLAYLIST = {
    "dur": 221,
    "kb": 3514,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/589-Toca_Explicit.mp3"
   },
   {
    "n": 590,
@@ -7599,7 +8182,8 @@ window.PLAYLIST = {
    "dur": 441,
    "kb": 17341,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/590-Re_Japanesque.mp3"
   },
   {
    "n": 591,
@@ -7612,7 +8196,8 @@ window.PLAYLIST = {
    "dur": 186,
    "kb": 7339,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/591-Rumors.mp3"
   },
   {
    "n": 592,
@@ -7625,7 +8210,8 @@ window.PLAYLIST = {
    "dur": 274,
    "kb": 10761,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/592-Waiting_For_Love_Live.mp3"
   },
   {
    "n": 593,
@@ -7638,7 +8224,8 @@ window.PLAYLIST = {
    "dur": 172,
    "kb": 6766,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/593-Octopus.mp3"
   },
   {
    "n": 594,
@@ -7651,7 +8238,8 @@ window.PLAYLIST = {
    "dur": 195,
    "kb": 7636,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/594-Shen_Ye_Shi_Ren.mp3"
   },
   {
    "n": 595,
@@ -7664,7 +8252,8 @@ window.PLAYLIST = {
    "dur": 273,
    "kb": 10762,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/595-L_I_F_E_Extended_Mix.mp3"
   },
   {
    "n": 596,
@@ -7677,7 +8266,8 @@ window.PLAYLIST = {
    "dur": 191,
    "kb": 7465,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/596-Goyang_Ubur_Ubur_Remix.mp3"
   },
   {
    "n": 597,
@@ -7690,7 +8280,8 @@ window.PLAYLIST = {
    "dur": 213,
    "kb": 3371,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/597-Phut_hon.mp3"
   },
   {
    "n": 598,
@@ -7703,7 +8294,8 @@ window.PLAYLIST = {
    "dur": 217,
    "kb": 8529,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/598-Jie_Jiu_Shi_Nu_Wang.mp3"
   },
   {
    "n": 599,
@@ -7716,7 +8308,8 @@ window.PLAYLIST = {
    "dur": 141,
    "kb": 2235,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/599-Chao_Xi_Natural_DJBan.mp3"
   },
   {
    "n": 600,
@@ -7729,7 +8322,8 @@ window.PLAYLIST = {
    "dur": 232,
    "kb": 9139,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/600-Loco_Papi_Extended_Mix.mp3"
   },
   {
    "n": 601,
@@ -7742,7 +8336,8 @@ window.PLAYLIST = {
    "dur": 157,
    "kb": 6244,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/601-U_Make_Me_Natan_Chaim_Asketa_Remix.mp3"
   },
   {
    "n": 602,
@@ -7755,7 +8350,8 @@ window.PLAYLIST = {
    "dur": 158,
    "kb": 6248,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/602-Alone.mp3"
   },
   {
    "n": 603,
@@ -7768,7 +8364,8 @@ window.PLAYLIST = {
    "dur": 209,
    "kb": 8198,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/603-Attention.mp3"
   },
   {
    "n": 604,
@@ -7781,7 +8378,8 @@ window.PLAYLIST = {
    "dur": 185,
    "kb": 7335,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/604-Light_It_Up.mp3"
   },
   {
    "n": 605,
@@ -7794,7 +8392,8 @@ window.PLAYLIST = {
    "dur": 218,
    "kb": 8673,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/605-Beautiful_Now.mp3"
   },
   {
    "n": 606,
@@ -7807,7 +8406,8 @@ window.PLAYLIST = {
    "dur": 195,
    "kb": 7692,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/606-Boomerang.mp3"
   },
   {
    "n": 607,
@@ -7820,7 +8420,8 @@ window.PLAYLIST = {
    "dur": 100,
    "kb": 3936,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/607-That_Girl_Remix.mp3"
   },
   {
    "n": 608,
@@ -7833,7 +8434,8 @@ window.PLAYLIST = {
    "dur": 213,
    "kb": 8366,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/608-Samsara.mp3"
   },
   {
    "n": 609,
@@ -7846,7 +8448,8 @@ window.PLAYLIST = {
    "dur": 173,
    "kb": 6780,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/609-No_Glory_LBLVNC_Remix.mp3"
   },
   {
    "n": 610,
@@ -7859,7 +8462,8 @@ window.PLAYLIST = {
    "dur": 148,
    "kb": 2340,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/610-Such_a_W_e_Stellular_Remix_Explicit.mp3"
   },
   {
    "n": 611,
@@ -7872,7 +8476,8 @@ window.PLAYLIST = {
    "dur": 162,
    "kb": 6344,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/611-Psycho_Pt_2_Pt_2_Explicit.mp3"
   },
   {
    "n": 612,
@@ -7885,7 +8490,8 @@ window.PLAYLIST = {
    "dur": 125,
    "kb": 4938,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/612-Such_a.mp3"
   },
   {
    "n": 613,
@@ -7898,7 +8504,8 @@ window.PLAYLIST = {
    "dur": 153,
    "kb": 6045,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/613-Akiba.mp3"
   },
   {
    "n": 614,
@@ -7911,7 +8518,8 @@ window.PLAYLIST = {
    "dur": 140,
    "kb": 5521,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/614-Mood_Explicit.mp3"
   },
   {
    "n": 615,
@@ -7924,7 +8532,8 @@ window.PLAYLIST = {
    "dur": 156,
    "kb": 6240,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/615-Touch_The_Sky.mp3"
   },
   {
    "n": 616,
@@ -7937,7 +8546,8 @@ window.PLAYLIST = {
    "dur": 203,
    "kb": 7983,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/616-Breath.mp3"
   },
   {
    "n": 617,
@@ -7950,7 +8560,8 @@ window.PLAYLIST = {
    "dur": 197,
    "kb": 7754,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/617-Horizon.mp3"
   },
   {
    "n": 618,
@@ -7963,7 +8574,8 @@ window.PLAYLIST = {
    "dur": 231,
    "kb": 9056,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/618-Spectre.mp3"
   },
   {
    "n": 619,
@@ -7976,7 +8588,8 @@ window.PLAYLIST = {
    "dur": 149,
    "kb": 5841,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/619-Betty_Boop_Ghost_Remix.mp3"
   },
   {
    "n": 620,
@@ -7989,7 +8602,8 @@ window.PLAYLIST = {
    "dur": 216,
    "kb": 3418,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/620-Turn_All_the_Lights_On_Explicit.mp3"
   },
   {
    "n": 621,
@@ -8002,7 +8616,8 @@ window.PLAYLIST = {
    "dur": 203,
    "kb": 7964,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/621-C_U_Again.mp3"
   },
   {
    "n": 622,
@@ -8015,7 +8630,8 @@ window.PLAYLIST = {
    "dur": 190,
    "kb": 7502,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/622-Turn_Back_Time.mp3"
   },
   {
    "n": 623,
@@ -8028,7 +8644,8 @@ window.PLAYLIST = {
    "dur": 173,
    "kb": 6814,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/623-Pump_It_Up_Original_Mix.mp3"
   },
   {
    "n": 624,
@@ -8041,7 +8658,8 @@ window.PLAYLIST = {
    "dur": 256,
    "kb": 10047,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/624-Lemon.mp3"
   },
   {
    "n": 625,
@@ -8054,7 +8672,8 @@ window.PLAYLIST = {
    "dur": 259,
    "kb": 4135,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/625-Lemon.mp3"
   },
   {
    "n": 626,
@@ -8067,7 +8686,8 @@ window.PLAYLIST = {
    "dur": 204,
    "kb": 8065,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/626-Es_rappelt_im_Karton.mp3"
   },
   {
    "n": 627,
@@ -8080,7 +8700,8 @@ window.PLAYLIST = {
    "dur": 124,
    "kb": 1969,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/627-Waiting_for_Love_Phong_Max_remix.mp3"
   },
   {
    "n": 628,
@@ -8093,7 +8714,8 @@ window.PLAYLIST = {
    "dur": 201,
    "kb": 7929,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/628-Sad_Sometimes.mp3"
   },
   {
    "n": 629,
@@ -8106,7 +8728,8 @@ window.PLAYLIST = {
    "dur": 184,
    "kb": 7266,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/629-Move_Up_Lost_Gravity.mp3"
   },
   {
    "n": 630,
@@ -8119,7 +8742,8 @@ window.PLAYLIST = {
    "dur": 269,
    "kb": 10594,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/630-Lost_Control_feat_Bianca.mp3"
   },
   {
    "n": 631,
@@ -8132,7 +8756,8 @@ window.PLAYLIST = {
    "dur": 269,
    "kb": 4264,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/631-Lost_Control_Original_Mix.mp3"
   },
   {
    "n": 632,
@@ -8145,7 +8770,8 @@ window.PLAYLIST = {
    "dur": 178,
    "kb": 6990,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/632-Astronomia.mp3"
   },
   {
    "n": 633,
@@ -8158,7 +8784,8 @@ window.PLAYLIST = {
    "dur": 317,
    "kb": 12426,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/633-Trap_Queen.mp3"
   },
   {
    "n": 634,
@@ -8171,7 +8798,8 @@ window.PLAYLIST = {
    "dur": 226,
    "kb": 8912,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/634-Here_With_You.mp3"
   },
   {
    "n": 635,
@@ -8184,7 +8812,8 @@ window.PLAYLIST = {
    "dur": 244,
    "kb": 9648,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/635-LOSER.mp3"
   },
   {
    "n": 636,
@@ -8197,7 +8826,8 @@ window.PLAYLIST = {
    "dur": 148,
    "kb": 5837,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/636-PYRO.mp3"
   },
   {
    "n": 637,
@@ -8210,7 +8840,8 @@ window.PLAYLIST = {
    "dur": 190,
    "kb": 7488,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/637-Collapsing_World.mp3"
   },
   {
    "n": 638,
@@ -8223,7 +8854,8 @@ window.PLAYLIST = {
    "dur": 250,
    "kb": 9832,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/638-Mine_Illenium_Remix.mp3"
   },
   {
    "n": 639,
@@ -8236,7 +8868,8 @@ window.PLAYLIST = {
    "dur": 194,
    "kb": 7679,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/639-The_Spectre.mp3"
   },
   {
    "n": 640,
@@ -8249,7 +8882,8 @@ window.PLAYLIST = {
    "dur": 213,
    "kb": 8399,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/640-Faded.mp3"
   },
   {
    "n": 641,
@@ -8262,7 +8896,8 @@ window.PLAYLIST = {
    "dur": 207,
    "kb": 8126,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/641-Ghost.mp3"
   },
   {
    "n": 642,
@@ -8275,7 +8910,8 @@ window.PLAYLIST = {
    "dur": 194,
    "kb": 7700,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/642-On_My_Way_Explicit.mp3"
   },
   {
    "n": 643,
@@ -8288,7 +8924,8 @@ window.PLAYLIST = {
    "dur": 242,
    "kb": 5694,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/643-This_Is_What_You_Came_For_chave_remix.mp3"
   },
   {
    "n": 644,
@@ -8301,7 +8938,8 @@ window.PLAYLIST = {
    "dur": 156,
    "kb": 6155,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/644-Empty_Love.mp3"
   },
   {
    "n": 645,
@@ -8314,7 +8952,8 @@ window.PLAYLIST = {
    "dur": 193,
    "kb": 7580,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/645-Seasons_Futuristik_Whogaux_Remix.mp3"
   },
   {
    "n": 646,
@@ -8327,7 +8966,8 @@ window.PLAYLIST = {
    "dur": 193,
    "kb": 7613,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/646-Winter.mp3"
   },
   {
    "n": 647,
@@ -8340,7 +8980,8 @@ window.PLAYLIST = {
    "dur": 214,
    "kb": 8392,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/647-Higher.mp3"
   },
   {
    "n": 648,
@@ -8353,7 +8994,8 @@ window.PLAYLIST = {
    "dur": 300,
    "kb": 11787,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/648-Animals_Danny_Olson_Remix.mp3"
   },
   {
    "n": 649,
@@ -8366,7 +9008,8 @@ window.PLAYLIST = {
    "dur": 247,
    "kb": 3922,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/649-Love_Is_Gone_Bigroom_Mix.mp3"
   },
   {
    "n": 650,
@@ -8379,7 +9022,8 @@ window.PLAYLIST = {
    "dur": 186,
    "kb": 7435,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/650-East_of_Eden.mp3"
   },
   {
    "n": 651,
@@ -8392,7 +9036,8 @@ window.PLAYLIST = {
    "dur": 210,
    "kb": 8242,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/651-Cradles.mp3"
   },
   {
    "n": 652,
@@ -8405,7 +9050,8 @@ window.PLAYLIST = {
    "dur": 227,
    "kb": 3665,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/652-Outside.mp3"
   },
   {
    "n": 653,
@@ -8418,7 +9064,8 @@ window.PLAYLIST = {
    "dur": 307,
    "kb": 12064,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/653-Fade_Away_Deaf_Kev_Remix.mp3"
   },
   {
    "n": 654,
@@ -8431,7 +9078,8 @@ window.PLAYLIST = {
    "dur": 161,
    "kb": 6380,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/654-Nothing_New_feat_Kaleena_Zanders_Explicit.mp3"
   },
   {
    "n": 655,
@@ -8444,7 +9092,8 @@ window.PLAYLIST = {
    "dur": 252,
    "kb": 9911,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/655-Neon_Rainbow.mp3"
   },
   {
    "n": 656,
@@ -8457,7 +9106,8 @@ window.PLAYLIST = {
    "dur": 180,
    "kb": 7056,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/656-Trndsttr_Lucian_Remix.mp3"
   },
   {
    "n": 657,
@@ -8470,7 +9120,8 @@ window.PLAYLIST = {
    "dur": 218,
    "kb": 8579,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/657-Move_Your_Body_Alan_Walker_Remix.mp3"
   },
   {
    "n": 658,
@@ -8483,7 +9134,8 @@ window.PLAYLIST = {
    "dur": 218,
    "kb": 8560,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/658-Unstoppable.mp3"
   },
   {
    "n": 659,
@@ -8496,7 +9148,8 @@ window.PLAYLIST = {
    "dur": 175,
    "kb": 6887,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/659-Keep_You_Mine.mp3"
   },
   {
    "n": 660,
@@ -8509,7 +9162,8 @@ window.PLAYLIST = {
    "dur": 213,
    "kb": 3340,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/660-Chun_Jiao_Yu_Zhi_Ming.mp3"
   },
   {
    "n": 661,
@@ -8522,7 +9176,8 @@ window.PLAYLIST = {
    "dur": 180,
    "kb": 7109,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/661-L_I_F_E.mp3"
   },
   {
    "n": 662,
@@ -8535,7 +9190,8 @@ window.PLAYLIST = {
    "dur": 195,
    "kb": 3057,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/662-Ye_Ban_Che_Ban_Zou.mp3"
   },
   {
    "n": 663,
@@ -8548,7 +9204,8 @@ window.PLAYLIST = {
    "dur": 193,
    "kb": 7610,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/663-Hold_On.mp3"
   },
   {
    "n": 664,
@@ -8561,7 +9218,8 @@ window.PLAYLIST = {
    "dur": 221,
    "kb": 8726,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/664-Hold_Us_Together.mp3"
   },
   {
    "n": 665,
@@ -8574,7 +9232,8 @@ window.PLAYLIST = {
    "dur": 206,
    "kb": 8118,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/665-End_Of_The_Night_Explicit.mp3"
   },
   {
    "n": 666,
@@ -8587,7 +9246,8 @@ window.PLAYLIST = {
    "dur": 260,
    "kb": 10200,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/666-Highscore_Original_Mix.mp3"
   },
   {
    "n": 667,
@@ -8600,7 +9260,8 @@ window.PLAYLIST = {
    "dur": 267,
    "kb": 10502,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/667-My_Heart.mp3"
   },
   {
    "n": 668,
@@ -8613,7 +9274,8 @@ window.PLAYLIST = {
    "dur": 194,
    "kb": 7636,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/668-Fearless_Pt_II.mp3"
   },
   {
    "n": 669,
@@ -8626,7 +9288,8 @@ window.PLAYLIST = {
    "dur": 338,
    "kb": 13240,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/669-Pure_Sunlight.mp3"
   },
   {
    "n": 670,
@@ -8639,7 +9302,8 @@ window.PLAYLIST = {
    "dur": 238,
    "kb": 9376,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/670-Limitless_Wu_Xian.mp3"
   },
   {
    "n": 671,
@@ -8652,7 +9316,8 @@ window.PLAYLIST = {
    "dur": 208,
    "kb": 8192,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/671-Meant_To_Be.mp3"
   },
   {
    "n": 672,
@@ -8665,7 +9330,8 @@ window.PLAYLIST = {
    "dur": 188,
    "kb": 7402,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/672-Can_We_Kiss_Forever.mp3"
   },
   {
    "n": 673,
@@ -8678,7 +9344,8 @@ window.PLAYLIST = {
    "dur": 273,
    "kb": 10778,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/673-Last_Reunion_Zui_Hou_De_Zhong_Feng.mp3"
   },
   {
    "n": 674,
@@ -8691,7 +9358,8 @@ window.PLAYLIST = {
    "dur": 210,
    "kb": 8250,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/674-Paris.mp3"
   },
   {
    "n": 675,
@@ -8704,7 +9372,8 @@ window.PLAYLIST = {
    "dur": 194,
    "kb": 7633,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/675-Blame_Tim_Gunter_Remix.mp3"
   },
   {
    "n": 676,
@@ -8717,7 +9386,8 @@ window.PLAYLIST = {
    "dur": 222,
    "kb": 8759,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/676-There_For_You.mp3"
   },
   {
    "n": 677,
@@ -8730,7 +9400,8 @@ window.PLAYLIST = {
    "dur": 204,
    "kb": 8035,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/677-Soap_Night_Remix.mp3"
   },
   {
    "n": 678,
@@ -8743,7 +9414,8 @@ window.PLAYLIST = {
    "dur": 194,
    "kb": 7607,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/678-Wrap_Me_In_Plastic.mp3"
   },
   {
    "n": 679,
@@ -8756,7 +9428,8 @@ window.PLAYLIST = {
    "dur": 128,
    "kb": 2036,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/679-Time.mp3"
   },
   {
    "n": 680,
@@ -8769,7 +9442,8 @@ window.PLAYLIST = {
    "dur": 225,
    "kb": 8880,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/680-Monsters.mp3"
   },
   {
    "n": 681,
@@ -8782,7 +9456,8 @@ window.PLAYLIST = {
    "dur": 175,
    "kb": 6930,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/681-Monsters_MushrooM_Remix.mp3"
   },
   {
    "n": 682,
@@ -8795,7 +9470,8 @@ window.PLAYLIST = {
    "dur": 175,
    "kb": 2776,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/682-Toby_Fox_His_Theme_Sprightly_20001S1_remix.mp3"
   },
   {
    "n": 683,
@@ -8808,7 +9484,8 @@ window.PLAYLIST = {
    "dur": 261,
    "kb": 10289,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/683-Night_Drive.mp3"
   },
   {
    "n": 684,
@@ -8821,7 +9498,8 @@ window.PLAYLIST = {
    "dur": 181,
    "kb": 7115,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/684-Silence.mp3"
   },
   {
    "n": 685,
@@ -8834,7 +9512,8 @@ window.PLAYLIST = {
    "dur": 182,
    "kb": 7235,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/685-Cyka_Blyat_Explicit.mp3"
   },
   {
    "n": 686,
@@ -8847,7 +9526,8 @@ window.PLAYLIST = {
    "dur": 225,
    "kb": 3575,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/686-Poker_Face_Makkur_Remix.mp3"
   },
   {
    "n": 687,
@@ -8860,7 +9540,8 @@ window.PLAYLIST = {
    "dur": 216,
    "kb": 8504,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/687-Wild.mp3"
   },
   {
    "n": 688,
@@ -8873,7 +9554,8 @@ window.PLAYLIST = {
    "dur": 256,
    "kb": 10037,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/688-DANCIN_KRONO_REMIX.mp3"
   },
   {
    "n": 689,
@@ -8886,7 +9568,8 @@ window.PLAYLIST = {
    "dur": 182,
    "kb": 7186,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/689-The_Ocean_Radio_Edit.mp3"
   },
   {
    "n": 690,
@@ -8899,7 +9582,8 @@ window.PLAYLIST = {
    "dur": 274,
    "kb": 10786,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/690-Alone.mp3"
   },
   {
    "n": 691,
@@ -8912,7 +9596,8 @@ window.PLAYLIST = {
    "dur": 214,
    "kb": 8435,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/691-Da_da_da_Jarico_Remix.mp3"
   },
   {
    "n": 692,
@@ -8925,7 +9610,8 @@ window.PLAYLIST = {
    "dur": 167,
    "kb": 6611,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/692-Da_Da_Da_Remix_by_Mikis.mp3"
   },
   {
    "n": 693,
@@ -8938,7 +9624,8 @@ window.PLAYLIST = {
    "dur": 202,
    "kb": 7947,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/693-Infinite.mp3"
   },
   {
    "n": 694,
@@ -8951,7 +9638,8 @@ window.PLAYLIST = {
    "dur": 196,
    "kb": 7743,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/694-In_The_Name_Of_Love.mp3"
   },
   {
    "n": 695,
@@ -8964,7 +9652,8 @@ window.PLAYLIST = {
    "dur": 276,
    "kb": 10884,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/695-haro_hawayu_Hello_How_are_you.mp3"
   },
   {
    "n": 696,
@@ -8977,7 +9666,8 @@ window.PLAYLIST = {
    "dur": 243,
    "kb": 9573,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/696-Reset_Inst.mp3"
   },
   {
    "n": 697,
@@ -8990,7 +9680,8 @@ window.PLAYLIST = {
    "dur": 349,
    "kb": 13679,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/697-You.mp3"
   },
   {
    "n": 698,
@@ -9003,7 +9694,8 @@ window.PLAYLIST = {
    "dur": 207,
    "kb": 8159,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/698-Don_t_Let_Me_Down_T_Mass_Remix.mp3"
   },
   {
    "n": 699,
@@ -9016,7 +9708,8 @@ window.PLAYLIST = {
    "dur": 192,
    "kb": 7551,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/699-Shots_Broiler_Remix.mp3"
   },
   {
    "n": 700,
@@ -9029,7 +9722,8 @@ window.PLAYLIST = {
    "dur": 171,
    "kb": 6721,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/700-Mackenzie_Ziegler_Breather_Chun_You_Remix.mp3"
   },
   {
    "n": 701,
@@ -9042,7 +9736,8 @@ window.PLAYLIST = {
    "dur": 207,
    "kb": 8150,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/701-One_Day.mp3"
   },
   {
    "n": 702,
@@ -9055,7 +9750,8 @@ window.PLAYLIST = {
    "dur": 209,
    "kb": 8223,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/702-Nevada.mp3"
   },
   {
    "n": 703,
@@ -9068,7 +9764,8 @@ window.PLAYLIST = {
    "dur": 230,
    "kb": 9043,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/703-Scars_To_Your_Beautiful.mp3"
   },
   {
    "n": 704,
@@ -9081,7 +9778,8 @@ window.PLAYLIST = {
    "dur": 208,
    "kb": 3266,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/704-No_Mean_Into_Cold_Love_Zhang_Jin_Rui_remix.mp3"
   },
   {
    "n": 705,
@@ -9094,7 +9792,8 @@ window.PLAYLIST = {
    "dur": 199,
    "kb": 7849,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/705-All_Falls_Down.mp3"
   },
   {
    "n": 706,
@@ -9107,7 +9806,8 @@ window.PLAYLIST = {
    "dur": 159,
    "kb": 6332,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/706-Mamake.mp3"
   },
   {
    "n": 707,
@@ -9120,7 +9820,8 @@ window.PLAYLIST = {
    "dur": 193,
    "kb": 3029,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/707-American_Boy_Chanel_Remix.mp3"
   },
   {
    "n": 708,
@@ -9133,7 +9834,8 @@ window.PLAYLIST = {
    "dur": 240,
    "kb": 9448,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/708-sweets_parade.mp3"
   },
   {
    "n": 709,
@@ -9146,7 +9848,8 @@ window.PLAYLIST = {
    "dur": 210,
    "kb": 8291,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/709-Ignite.mp3"
   },
   {
    "n": 710,
@@ -9159,7 +9862,8 @@ window.PLAYLIST = {
    "dur": 209,
    "kb": 8292,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/710-harehareya_Lang_Lang_Qing_Tian.mp3"
   },
   {
    "n": 711,
@@ -9172,7 +9876,8 @@ window.PLAYLIST = {
    "dur": 190,
    "kb": 7544,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/711-Shi_Nei_Xi_De_TrackMaker.mp3"
   },
   {
    "n": 712,
@@ -9185,7 +9890,8 @@ window.PLAYLIST = {
    "dur": 176,
    "kb": 6925,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/712-Redbone_DJBan.mp3"
   },
   {
    "n": 713,
@@ -9198,7 +9904,8 @@ window.PLAYLIST = {
    "dur": 194,
    "kb": 7675,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/713-Coming_Home.mp3"
   },
   {
    "n": 714,
@@ -9211,7 +9918,8 @@ window.PLAYLIST = {
    "dur": 202,
    "kb": 3176,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/714-In_The_End_Live.mp3"
   },
   {
    "n": 715,
@@ -9224,7 +9932,8 @@ window.PLAYLIST = {
    "dur": 201,
    "kb": 7892,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/715-Out_of_Time_Sagan_Remix.mp3"
   },
   {
    "n": 716,
@@ -9237,7 +9946,8 @@ window.PLAYLIST = {
    "dur": 213,
    "kb": 8414,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/716-Sold_Out.mp3"
   },
   {
    "n": 717,
@@ -9250,7 +9960,8 @@ window.PLAYLIST = {
    "dur": 157,
    "kb": 6207,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/717-Where_Is_Your_Love.mp3"
   },
   {
    "n": 718,
@@ -9263,7 +9974,8 @@ window.PLAYLIST = {
    "dur": 201,
    "kb": 7947,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/718-Come_Back_For_You.mp3"
   },
   {
    "n": 719,
@@ -9276,7 +9988,8 @@ window.PLAYLIST = {
    "dur": 169,
    "kb": 6668,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/719-Drown_Alle_Farben_Remix.mp3"
   },
   {
    "n": 720,
@@ -9289,7 +10002,8 @@ window.PLAYLIST = {
    "dur": 103,
    "kb": 4067,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/720-Brainiac_Maniac.mp3"
   },
   {
    "n": 721,
@@ -9302,7 +10016,8 @@ window.PLAYLIST = {
    "dur": 210,
    "kb": 8284,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/721-Lang_Lang_Qing_Tian.mp3"
   },
   {
    "n": 722,
@@ -9315,7 +10030,8 @@ window.PLAYLIST = {
    "dur": 197,
    "kb": 3152,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/722-Girls_Like_YoU_Tong_Yin_Ban.mp3"
   },
   {
    "n": 723,
@@ -9328,7 +10044,8 @@ window.PLAYLIST = {
    "dur": 185,
    "kb": 7231,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/723-Take_It_All_in_feat_Rexx_Life_Raj_Explicit.mp3"
   },
   {
    "n": 724,
@@ -9341,7 +10058,8 @@ window.PLAYLIST = {
    "dur": 197,
    "kb": 7766,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/724-Dancin_Krono_Remix.mp3"
   },
   {
    "n": 725,
@@ -9354,7 +10072,8 @@ window.PLAYLIST = {
    "dur": 223,
    "kb": 8763,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/725-Astronomia_Bootleg_Jiaye_Bootleg.mp3"
   },
   {
    "n": 726,
@@ -9367,7 +10086,8 @@ window.PLAYLIST = {
    "dur": 180,
    "kb": 7057,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/726-Cooler_Than_Me_Explicit.mp3"
   },
   {
    "n": 727,
@@ -9380,7 +10100,8 @@ window.PLAYLIST = {
    "dur": 202,
    "kb": 7923,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/727-How_to_Love_feat_Sofia_Reyes_Acoustic.mp3"
   },
   {
    "n": 728,
@@ -9393,7 +10114,8 @@ window.PLAYLIST = {
    "dur": 174,
    "kb": 6871,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/728-Redbone_Remix.mp3"
   },
   {
    "n": 729,
@@ -9406,7 +10128,8 @@ window.PLAYLIST = {
    "dur": 151,
    "kb": 5948,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/729-Savage_Love_Remix.mp3"
   },
   {
    "n": 730,
@@ -9419,7 +10142,8 @@ window.PLAYLIST = {
    "dur": 149,
    "kb": 5887,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/730-You_Zai_Shan_Ge_Da_Wang.mp3"
   },
   {
    "n": 731,
@@ -9432,7 +10156,8 @@ window.PLAYLIST = {
    "dur": 177,
    "kb": 6970,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/731-Run_Free_Original_Mix.mp3"
   },
   {
    "n": 732,
@@ -9445,7 +10170,8 @@ window.PLAYLIST = {
    "dur": 212,
    "kb": 8337,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/732-Way_Back_feat_Cozi_Zuehlsdorff.mp3"
   },
   {
    "n": 733,
@@ -9458,7 +10184,8 @@ window.PLAYLIST = {
    "dur": 208,
    "kb": 8200,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/733-Here_Remix.mp3"
   },
   {
    "n": 734,
@@ -9471,7 +10198,8 @@ window.PLAYLIST = {
    "dur": 266,
    "kb": 10508,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/734-Dusk_Till_Dawn.mp3"
   },
   {
    "n": 735,
@@ -9484,7 +10212,8 @@ window.PLAYLIST = {
    "dur": 150,
    "kb": 5937,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/735-Count_The_Hours.mp3"
   },
   {
    "n": 736,
@@ -9497,7 +10226,8 @@ window.PLAYLIST = {
    "dur": 308,
    "kb": 4831,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/736-Jing_Cai_Tai_Jun_I_don_t_wanna_see.mp3"
   },
   {
    "n": 737,
@@ -9510,7 +10240,8 @@ window.PLAYLIST = {
    "dur": 160,
    "kb": 6310,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/737-Lalala_Explicit.mp3"
   },
   {
    "n": 738,
@@ -9523,7 +10254,8 @@ window.PLAYLIST = {
    "dur": 273,
    "kb": 10752,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/738-Ticking.mp3"
   },
   {
    "n": 739,
@@ -9536,7 +10268,8 @@ window.PLAYLIST = {
    "dur": 276,
    "kb": 4325,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/739-Love_is_gone_Remix.mp3"
   },
   {
    "n": 740,
@@ -9549,7 +10282,8 @@ window.PLAYLIST = {
    "dur": 211,
    "kb": 8282,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/740-Be_What_You_Wanna_Be.mp3"
   },
   {
    "n": 741,
@@ -9562,7 +10296,8 @@ window.PLAYLIST = {
    "dur": 249,
    "kb": 9813,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/741-Something_Just_Like_This_Megamix.mp3"
   },
   {
    "n": 742,
@@ -9575,7 +10310,8 @@ window.PLAYLIST = {
    "dur": 216,
    "kb": 8527,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/742-Just_Like_Fire.mp3"
   },
   {
    "n": 743,
@@ -9588,7 +10324,8 @@ window.PLAYLIST = {
    "dur": 266,
    "kb": 10471,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/743-Home_Blaze_U_Remix.mp3"
   },
   {
    "n": 745,
@@ -9601,7 +10338,8 @@ window.PLAYLIST = {
    "dur": 201,
    "kb": 7944,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/745-By_Your_Side.mp3"
   },
   {
    "n": 746,
@@ -9614,7 +10352,8 @@ window.PLAYLIST = {
    "dur": 195,
    "kb": 7712,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/746-Walk_Thru_Fire.mp3"
   },
   {
    "n": 747,
@@ -9627,7 +10366,8 @@ window.PLAYLIST = {
    "dur": 199,
    "kb": 7804,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/747-Flowers.mp3"
   },
   {
    "n": 748,
@@ -9640,7 +10380,8 @@ window.PLAYLIST = {
    "dur": 210,
    "kb": 8329,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/748-Bi_Nu_haLu_niChu_ru_Ta_Ta_Shang_Liao_Lu_Cheng.mp3"
   },
   {
    "n": 749,
@@ -9653,7 +10394,8 @@ window.PLAYLIST = {
    "dur": 252,
    "kb": 4011,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/749-summertime_Xia_Ri_Shi_Guang.mp3"
   },
   {
    "n": 750,
@@ -9666,7 +10408,8 @@ window.PLAYLIST = {
    "dur": 250,
    "kb": 9839,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/750-Lian_Ai_sa_kiyure_shiyon_Lian_Ai_Xun_Huan.mp3"
   },
   {
    "n": 751,
@@ -9679,7 +10422,8 @@ window.PLAYLIST = {
    "dur": 270,
    "kb": 10627,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/751-aLIEz_Live.mp3"
   },
   {
    "n": 752,
@@ -9692,7 +10436,8 @@ window.PLAYLIST = {
    "dur": 286,
    "kb": 11230,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/752-Umbrella_Matte_Remix.mp3"
   },
   {
    "n": 753,
@@ -9705,7 +10450,8 @@ window.PLAYLIST = {
    "dur": 269,
    "kb": 10610,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/753-Flower_Dance.mp3"
   },
   {
    "n": 754,
@@ -9718,7 +10464,8 @@ window.PLAYLIST = {
    "dur": 198,
    "kb": 7814,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/754-We_Don_t_Talk_Anymore_TRU_Concept_Remix.mp3"
   },
   {
    "n": 755,
@@ -9731,7 +10478,8 @@ window.PLAYLIST = {
    "dur": 169,
    "kb": 6653,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/755-Remember_Our_Summer.mp3"
   },
   {
    "n": 756,
@@ -9744,7 +10492,8 @@ window.PLAYLIST = {
    "dur": 289,
    "kb": 11406,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/756-Da_Shang_Hua_Huo.mp3"
   },
   {
    "n": 757,
@@ -9757,7 +10506,8 @@ window.PLAYLIST = {
    "dur": 256,
    "kb": 10034,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/757-Senbonzakura.mp3"
   },
   {
    "n": 758,
@@ -9770,7 +10520,8 @@ window.PLAYLIST = {
    "dur": 184,
    "kb": 7306,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/758-Complicated.mp3"
   },
   {
    "n": 759,
@@ -9783,7 +10534,8 @@ window.PLAYLIST = {
    "dur": 222,
    "kb": 8723,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/759-The_New_Kings.mp3"
   },
   {
    "n": 760,
@@ -9796,7 +10548,8 @@ window.PLAYLIST = {
    "dur": 251,
    "kb": 9869,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/760-Take_a_Walk.mp3"
   },
   {
    "n": 761,
@@ -9809,7 +10562,8 @@ window.PLAYLIST = {
    "dur": 209,
    "kb": 8236,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/761-Hero.mp3"
   },
   {
    "n": 762,
@@ -9822,7 +10576,8 @@ window.PLAYLIST = {
    "dur": 202,
    "kb": 7932,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/762-China_2.mp3"
   },
   {
    "n": 763,
@@ -9835,7 +10590,8 @@ window.PLAYLIST = {
    "dur": 179,
    "kb": 7036,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/763-YELLOW.mp3"
   },
   {
    "n": 764,
@@ -9848,7 +10604,8 @@ window.PLAYLIST = {
    "dur": 243,
    "kb": 3884,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/764-Qian_Ben_Ying.mp3"
   },
   {
    "n": 765,
@@ -9861,7 +10618,8 @@ window.PLAYLIST = {
    "dur": 209,
    "kb": 8236,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/765-Nevada.mp3"
   },
   {
    "n": 766,
@@ -9874,7 +10632,8 @@ window.PLAYLIST = {
    "dur": 86,
    "kb": 3444,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/766-Xi_Ha_Chuang_Yun_Duan.mp3"
   },
   {
    "n": 767,
@@ -9887,7 +10646,8 @@ window.PLAYLIST = {
    "dur": 220,
    "kb": 3477,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/767-Zhi_Yin_Ni_Tai_Mei.mp3"
   },
   {
    "n": 768,
@@ -9900,7 +10660,8 @@ window.PLAYLIST = {
    "dur": 215,
    "kb": 8482,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/768-Tu_vivi_nell_aria_Remix_Gigi_D_Agastino_Minions_Version.mp3"
   },
   {
    "n": 769,
@@ -9913,7 +10674,8 @@ window.PLAYLIST = {
    "dur": 121,
    "kb": 1900,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/769-Jin_Da_Lai_Hua_DJBan.mp3"
   },
   {
    "n": 770,
@@ -9926,7 +10688,8 @@ window.PLAYLIST = {
    "dur": 210,
    "kb": 8219,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/770-Seve_Radio_Edit.mp3"
   },
   {
    "n": 771,
@@ -9939,7 +10702,8 @@ window.PLAYLIST = {
    "dur": 250,
    "kb": 9845,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/771-Lian_Ai_sa_kiyure_shiyon_Lian_Ai_Xun_Huan.mp3"
   },
   {
    "n": 772,
@@ -9952,7 +10716,8 @@ window.PLAYLIST = {
    "dur": 204,
    "kb": 8018,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/772-Quan_Bu_Du_Shi_Ni.mp3"
   },
   {
    "n": 773,
@@ -9965,7 +10730,8 @@ window.PLAYLIST = {
    "dur": 173,
    "kb": 6868,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/773-Hong_Zhao_Yuan.mp3"
   },
   {
    "n": 774,
@@ -9978,7 +10744,8 @@ window.PLAYLIST = {
    "dur": 192,
    "kb": 3086,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/774-Gang_Hao_Yu_Jian_Ni.mp3"
   },
   {
    "n": 775,
@@ -9991,7 +10758,8 @@ window.PLAYLIST = {
    "dur": 214,
    "kb": 3421,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/775-Never_Gonna_Give_You_Up.mp3"
   },
   {
    "n": 777,
@@ -10004,7 +10772,8 @@ window.PLAYLIST = {
    "dur": 198,
    "kb": 7821,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/777-Dream_Glow.mp3"
   },
   {
    "n": 778,
@@ -10017,7 +10786,8 @@ window.PLAYLIST = {
    "dur": 198,
    "kb": 3159,
    "q": "128k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/778-Rihanna_Umbrella_savior_remix.mp3"
   },
   {
    "n": 779,
@@ -10030,7 +10800,8 @@ window.PLAYLIST = {
    "dur": 74,
    "kb": 2974,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/779-Upside_Down.mp3"
   },
   {
    "n": 781,
@@ -10043,7 +10814,8 @@ window.PLAYLIST = {
    "dur": 262,
    "kb": 10303,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/781-Holy_Grail_Adieu_Remix.mp3"
   },
   {
    "n": 783,
@@ -10056,7 +10828,8 @@ window.PLAYLIST = {
    "dur": 218,
    "kb": 8584,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/783-In_The_End_Mellen_Gi_Remix.mp3"
   },
   {
    "n": 784,
@@ -10069,7 +10842,8 @@ window.PLAYLIST = {
    "dur": 256,
    "kb": 10072,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/784-Dusk_Till_Dawn_DJHao_Da_Da_Ban.mp3"
   },
   {
    "n": 785,
@@ -10082,7 +10856,8 @@ window.PLAYLIST = {
    "dur": 245,
    "kb": 9654,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/785-Fractures_AZNE_Remix.mp3"
   },
   {
    "n": 786,
@@ -10095,7 +10870,8 @@ window.PLAYLIST = {
    "dur": 209,
    "kb": 8200,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/786-Nevada_Boom.mp3"
   },
   {
    "n": 787,
@@ -10108,7 +10884,8 @@ window.PLAYLIST = {
    "dur": 294,
    "kb": 11531,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/787-Despair.mp3"
   },
   {
    "n": 788,
@@ -10121,7 +10898,8 @@ window.PLAYLIST = {
    "dur": 211,
    "kb": 8294,
    "q": "320k",
-   "cover": true
+   "cover": true,
+   "src": "https://github.com/eUsEr114514/eQQMusicListShow/releases/download/songs-v1/788-Zui_Mei_De_Qi_Dai_DJDong_Gu_Ban.mp3"
   }
  ]
 };

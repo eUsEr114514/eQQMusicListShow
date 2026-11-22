@@ -92,11 +92,17 @@
     }
 
     /* ---------- 播放 ---------- */
+    const isURL = s => /^https?:\/\//i.test(s || '');
+    const remoteSrc = t => (isURL(t.src) ? t.src : '');
+    const localSrc = t => enc('SongsFiles/' + t.file + t.ext);
+    let triedLocal = false;
+
     function playAt(i){
         if (i < 0 || i >= queue.length) return;
         qi = i;
         const t = queue[i];
-        audio.src = enc('SongsFiles/' + t.file + t.ext);
+        triedLocal = false;
+        audio.src = remoteSrc(t) || localSrc(t);
         audio.play().catch(() => toast('浏览器拦截了自动播放，再点一次即可'));
         $('#ptitle').textContent = t.title;
         $('#partist').textContent = (t.artist || '未知歌手') + ' · ' + t.cat;
@@ -123,7 +129,18 @@
     });
     audio.addEventListener('play', () => { $('#icoplay').innerHTML = '<path d="M7 5h4v14H7zM13 5h4v14h-4z"/>'; });
     audio.addEventListener('pause', () => { $('#icoplay').innerHTML = '<path d="M8 5v14l11-7z"/>'; });
-    audio.addEventListener('error', () => { if (audio.src) toast('该文件无法播放'); });
+    audio.addEventListener('error', () => {
+        if (!audio.src) return;
+        const t = queue[qi];
+        /* Release 直链失败（离线/被墙/404）时，自动回落到本地 SongsFiles */
+        if (t && !triedLocal && remoteSrc(t)){
+            triedLocal = true;
+            audio.src = localSrc(t);
+            audio.play().catch(() => {});
+            return;
+        }
+        toast('该文件无法播放');
+    });
 
     /* ---------- 控件 ---------- */
     $('#toggle').onclick = () => {
