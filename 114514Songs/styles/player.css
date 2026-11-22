@@ -1,0 +1,70 @@
+/* ============================================================
+   player.css — 底部播放器与响应式布局
+   ============================================================ */
+
+.player{
+  position:fixed;left:0;right:0;bottom:0;z-index:20;
+  padding:12px 18px calc(12px + env(safe-area-inset-bottom));
+  background:linear-gradient(180deg,rgba(8,9,13,.72),rgba(8,9,13,.94));
+  backdrop-filter:blur(24px) saturate(1.2);
+  border-top:1px solid rgba(255,255,255,.08);
+  box-shadow:0 -18px 50px rgba(0,0,0,.5);
+}
+.pinner{
+  max-width:1400px;margin:0 auto;display:grid;
+  grid-template-columns:minmax(180px,1.1fr) 2.2fr minmax(140px,.9fr);
+  gap:18px;align-items:center;
+}
+
+/* 左：当前曲目 */
+.now{display:flex;gap:12px;align-items:center;min-width:0}
+.now img{width:52px;height:52px;border-radius:10px;object-fit:cover;background:#15171d;flex:none}
+.now .txt{min-width:0}
+.now .n1{font-size:13.5px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.now .n2{font-size:11.5px;color:var(--dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-top:3px}
+
+/* 中：控制 + 进度 */
+.center{display:flex;flex-direction:column;gap:6px;align-items:center}
+.ctrls{display:flex;align-items:center;gap:14px}
+.ib{
+  width:38px;height:38px;border-radius:50%;border:1px solid transparent;background:transparent;
+  color:#cfd3dc;cursor:pointer;display:grid;place-items:center;transition:.16s;
+}
+.ib:hover{color:#fff;background:rgba(255,255,255,.08)}
+.ib.big{
+  width:46px;height:46px;background:linear-gradient(135deg,#43e39a,var(--acc));color:#04170f;
+  box-shadow:0 8px 24px rgba(49,194,124,.35);
+}
+.ib.big:hover{filter:brightness(1.08)}
+.ib.on{color:#43e39a}
+
+.bar{display:flex;align-items:center;gap:10px;width:100%}
+.time{font-size:11px;color:var(--dim);font-variant-numeric:tabular-nums;min-width:38px;text-align:center}
+.track{position:relative;flex:1;height:5px;border-radius:4px;background:rgba(255,255,255,.12);cursor:pointer}
+.track .buf{position:absolute;inset:0;width:0;background:rgba(255,255,255,.18);border-radius:4px}
+.track .prog{position:absolute;inset:0;width:0;border-radius:4px;background:linear-gradient(90deg,var(--acc),#7dd3fc)}
+.track .knob{
+  position:absolute;top:50%;left:0;width:12px;height:12px;margin-left:-6px;border-radius:50%;
+  background:#fff;transform:translateY(-50%) scale(0);transition:transform .16s;
+  box-shadow:0 0 0 4px rgba(49,194,124,.2);
+}
+.track:hover .knob{transform:translateY(-50%) scale(1)}
+
+/* 右：音量 */
+.right{display:flex;align-items:center;gap:10px;justify-content:flex-end}
+.vol{width:92px;height:4px;border-radius:4px;background:rgba(255,255,255,.14);position:relative;cursor:pointer}
+.vol i{position:absolute;inset:0;width:80%;border-radius:4px;background:rgba(255,255,255,.6)}
+
+/* ---------- 响应式 ---------- */
+@media (max-width:820px){
+  .pinner{grid-template-columns:1fr;gap:10px}
+  .right{display:none}
+  .now img{width:42px;height:42px}
+  .wrap{padding:22px 16px 210px}
+  .grid{grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:12px}
+}
+
+@media (prefers-reduced-motion:reduce){
+  .aurora i{animation:none}
+  .card,.cover img,.play{transition:none}
+}

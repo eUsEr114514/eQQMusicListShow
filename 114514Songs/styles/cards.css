@@ -1,0 +1,76 @@
+/* ============================================================
+   cards.css — 曲目卡片网格、封面、音质徽标、正在播放动画
+   ============================================================ */
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(168px,1fr));
+  gap:18px;
+}
+
+.card{
+  position:relative;border-radius:var(--radius);overflow:hidden;
+  background:var(--panel);border:1px solid var(--line);cursor:pointer;
+  transition:transform .22s cubic-bezier(.2,.7,.3,1),box-shadow .22s,border-color .22s;
+  transform:translateZ(0);
+}
+.card:hover{transform:translateY(-6px);box-shadow:var(--shadow);border-color:rgba(255,255,255,.2)}
+
+/* 封面 */
+.cover{position:relative;aspect-ratio:1/1;background:#111318;overflow:hidden}
+.cover img{
+  width:100%;height:100%;object-fit:cover;display:block;
+  transition:transform .5s ease,filter .3s;filter:saturate(1.05);
+}
+.card:hover .cover img{transform:scale(1.06)}
+.cover .ph{position:absolute;inset:0;display:grid;place-items:center;font-size:34px;color:#2b2f39}
+
+/* 悬浮播放按钮 */
+.play{
+  position:absolute;right:10px;bottom:10px;width:40px;height:40px;border-radius:50%;
+  display:grid;place-items:center;background:rgba(10,12,16,.62);backdrop-filter:blur(10px);
+  border:1px solid rgba(255,255,255,.18);opacity:0;transform:translateY(8px) scale(.9);transition:.22s;
+}
+.card:hover .play,.card.on .play{opacity:1;transform:none}
+
+/* 正在播放：描边 + 频谱 */
+.card.on{
+  border-color:rgba(49,194,124,.65);
+  box-shadow:0 0 0 1px rgba(49,194,124,.35),0 18px 44px rgba(49,194,124,.16);
+}
+.eq{
+  position:absolute;left:10px;top:10px;display:none;gap:2.5px;align-items:flex-end;height:16px;
+  padding:4px 6px;border-radius:7px;background:rgba(10,12,16,.6);backdrop-filter:blur(8px);
+}
+.card.on .eq{display:flex}
+.eq i{display:block;width:3px;background:#43e39a;border-radius:2px;animation:bar .9s ease-in-out infinite}
+.eq i:nth-child(2){animation-delay:.15s}
+.eq i:nth-child(3){animation-delay:.3s}
+.eq i:nth-child(4){animation-delay:.45s}
+@keyframes bar{0%,100%{height:4px}50%{height:14px}}
+
+/* 文本区 */
+.meta{padding:11px 12px 13px}
+.t{
+  font-size:13.5px;font-weight:600;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;
+  -webkit-box-orient:vertical;overflow:hidden;min-height:37px;
+}
+.a{margin-top:5px;font-size:11.5px;color:var(--dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+/* 徽标 */
+.tags{display:flex;gap:5px;margin-top:8px;align-items:center;flex-wrap:nowrap;overflow:hidden}
+.badge{
+  font-size:10px;letter-spacing:.04em;padding:2.5px 6px;border-radius:6px;
+  border:1px solid var(--line);color:var(--dim);white-space:nowrap;
+}
+.badge.flac{color:#8ff0c0;border-color:rgba(49,194,124,.45);background:rgba(49,194,124,.1)}
+.badge.q320{color:#a9c2ff;border-color:rgba(91,140,255,.4);background:rgba(91,140,255,.1)}
+.badge.q128{color:#ffd08a;border-color:rgba(255,180,80,.35);background:rgba(255,180,80,.08)}
+
+/* 分类小标：盖在封面右上角 */
+.cat-pill{
+  position:absolute;right:8px;top:8px;max-width:calc(100% - 16px);
+  font-size:10.5px;line-height:1;padding:5px 7px;border-radius:7px;
+  color:#e6e9f5;background:rgba(8,10,14,.66);border:1px solid rgba(255,255,255,.16);
+  backdrop-filter:blur(8px);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}

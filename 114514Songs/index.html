@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>114514123 · 歌单漫游</title>
+
+<!-- 样式拆分为三份，路径相对本文件 -->
+<link rel="stylesheet" href="styles/base.css">
+<link rel="stylesheet" href="styles/cards.css">
+<link rel="stylesheet" href="styles/player.css">
+</head>
+<body>
+<div class="aurora"><i></i><i></i><i></i></div>
+<div class="grain"></div>
+
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <div class="logo">♪</div>
+      <div>
+        <h1 id="siteTitle">114514123</h1>
+        <p class="sub"><span id="siteSub">QQ音乐歌单 · 本地音频漫游</span> · 共 <span id="cnt"></span> 首</p>
+      </div>
+    </div>
+    <div class="stats">
+      <div class="stat"><b id="s1"></b><span>曲目</span></div>
+      <div class="stat"><b id="s2"></b><span>总时长</span></div>
+      <div class="stat"><b id="s3"></b><span>体积</span></div>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <div class="search">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" placeholder="搜索歌名 / 歌手 / 专辑   （按 / 聚焦）" autocomplete="off">
+    </div>
+
+    <!-- 分类筛选：文案与顺序都可直接改这里 -->
+    <div class="chips" id="chips">
+      <div class="chip on" data-cat="全部">全部<em data-count="全部"></em></div>
+      <div class="chip" data-cat="音游曲">音游曲<em data-count="音游曲"></em></div>
+      <div class="chip" data-cat="vocaloid">vocaloid<em data-count="vocaloid"></em></div>
+      <div class="chip" data-cat="日语动漫/流行曲">日语动漫/流行曲<em data-count="日语动漫/流行曲"></em></div>
+      <div class="chip" data-cat="东方Project">东方Project<em data-count="东方Project"></em></div>
+      <div class="chip" data-cat="欧美电音">欧美电音<em data-count="欧美电音"></em></div>
+      <div class="chip" data-cat="纯音乐">纯音乐<em data-count="纯音乐"></em></div>
+      <div class="chip" data-cat="其他">其他<em data-count="其他"></em></div>
+    </div>
+
+    <select id="sort">
+      <option value="default">歌单顺序</option>
+      <option value="name">歌名 A→Z</option>
+      <option value="dur">时长</option>
+      <option value="size">体积</option>
+    </select>
+    <button class="btn" id="shuffle">随机播放</button>
+  </div>
+
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" style="display:none">没有匹配的曲目</div>
+  <div class="sentinel" id="sentinel"></div>
+</div>
+
+<div class="player">
+  <div class="pinner">
+    <div class="now">
+      <img id="pcover" alt="" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='52' height='52'%3E%3Crect width='52' height='52' fill='%23161820'/%3E%3C/svg%3E">
+      <div class="txt">
+        <div class="n1" id="ptitle">未在播放</div>
+        <div class="n2" id="partist">点击任意封面开始</div>
+      </div>
+    </div>
+    <div class="center">
+      <div class="ctrls">
+        <button class="ib" id="prev" title="上一首 (←)"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M6 5h2v14H6zM20 5v14l-11-7z"/></svg></button>
+        <button class="ib big" id="toggle" title="播放/暂停 (空格)"><svg id="icoplay" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button>
+        <button class="ib" id="next" title="下一首 (→)"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M16 5h2v14h-2zM4 5v14l11-7z"/></svg></button>
+        <button class="ib" id="mode" title="播放模式（顺序/单曲/随机）"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 2l4 4-4 4"/><path d="M3 11v-1a4 4 0 0 1 4-4h14"/><path d="M7 22l-4-4 4-4"/><path d="M21 13v1a4 4 0 0 1-4 4H3"/></svg></button>
+      </div>
+      <div class="bar">
+        <span class="time" id="cur">0:00</span>
+        <div class="track" id="track"><div class="buf" id="buf"></div><div class="prog" id="prog"></div><div class="knob" id="knob"></div></div>
+        <span class="time" id="tot">0:00</span>
+      </div>
+    </div>
+    <div class="right">
+      <button class="ib" id="mute" title="静音"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 5 6 9H3v6h3l5 4z"/><path d="M16 9a4 4 0 0 1 0 6"/></svg></button>
+      <div class="vol" id="vol"><i id="voli"></i></div>
+    </div>
+  </div>
+</div>
+<div class="hint" id="hint"></div>
+
+<script src="data/tracks.js"></script>
+<script src="styles/interaction.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+# 音频不入库，走 GitHub Release
+114514Songs/SongsFiles/
+
+# 系统垃圾
+Thumbs.db
+desktop.ini
+.DS_Store
+
+_work/auth.log
