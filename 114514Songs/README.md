@@ -1,5 +1,7 @@
 # 114514Songs
 
+在线访问：https://electrondz75.top/eQQMusicListShow/ （GitHub Pages）
+
 QQ音乐歌单 `114514123` 的本地化版本：778 首完整音频 + 778 张封面 + 一个纯静态播放页。
 
 - 打开网页：双击 [index.html](index.html)
