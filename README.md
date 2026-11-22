@@ -10,7 +10,7 @@
 
 ## 一、怎么打开
 
-**在线（推荐）**：直接访问 https://electrondz75.top/eQQMusicListShow/ ；源站在 https://github.com/eUsEr114514/eQQMusicListShow ，音频在 Releases 的 `songs-v1`。
+**在线（推荐）**：直接访问 https://music.electrondz75.top/ ；源站在 https://github.com/eUsEr114514/eQQMusicListShow ，音频在 Releases 的 `songs-v1`。
 
 **电脑**：双击 `index.html`，用 Chrome / Edge 打开即可。
 
